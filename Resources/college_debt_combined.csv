@@ -1,0 +1,1320 @@
+id,Name,Year,Percent of graduates with debt,Average debt of graduates,Per capita debt of graduates,Full-time freshmen who received any student loans (#),% of full-time freshmen who received any student loans,Average amount of student loans received by full-time freshmen who borrowed,Tuition and fees (in-district/in-state),Graduation rate (within 150% of normal time),Origin of data
+1,"Alabama - Private, for-profit",2016-17,,,,,,,11737,,CollegeInSight_Explore_CA.csv
+2,"Alabama - Private, for-profit",2015-16,,,,1341,0.79,8344,12797,0.26,CollegeInSight_Explore_CA.csv
+3,"Alabama - Private, for-profit",2014-15,,,,1710,0.8,8033,12490,0.35,CollegeInSight_Explore_CA.csv
+4,"Alabama - Private, for-profit",2013-14,,,,2092,0.8,8046,12124,0.42,CollegeInSight_Explore_CA.csv
+5,"Alabama - Private, for-profit",2012-13,,,,2291,0.73,6968,12742,0.5,CollegeInSight_Explore_CA.csv
+6,"Alabama - Private, for-profit",2011-12,,,,2180,0.81,7757,13489,0.52,CollegeInSight_Explore_CA.csv
+7,"Alabama - Private, for-profit",2010-11,,,,3513,0.89,7802,16744,0.52,CollegeInSight_Explore_CA.csv
+8,"Alabama - Private, for-profit",2009-10,,,,4053,0.68,7218,15217,0.47,CollegeInSight_Explore_CA.csv
+9,"Alabama - Private, nonprofit",2016-17,0.6,28696,17217,,,,22779,,CollegeInSight_Explore_CA.csv
+10,"Alabama - Private, nonprofit",2015-16,0.58,29327,17009,3035,0.63,6506,21440,0.49,CollegeInSight_Explore_CA.csv
+11,"Alabama - Private, nonprofit",2014-15,0.66,27876,18465,3585,0.71,6130,20361,0.47,CollegeInSight_Explore_CA.csv
+12,"Alabama - Private, nonprofit",2013-14,0.7,28166,19710,3305,0.68,6935,19856,0.45,CollegeInSight_Explore_CA.csv
+13,"Alabama - Private, nonprofit",2012-13,0.63,28267,17892,3525,0.7,6973,18748,0.46,CollegeInSight_Explore_CA.csv
+14,"Alabama - Private, nonprofit",2011-12,0.75,26067,19565,3264,0.65,6756,17798,0.46,CollegeInSight_Explore_CA.csv
+15,"Alabama - Private, nonprofit",2010-11,0.69,23435,16109,3504,0.72,7149,16902,0.45,CollegeInSight_Explore_CA.csv
+16,"Alabama - Private, nonprofit",2009-10,0.64,22383,14359,3408,0.65,6835,16787,0.45,CollegeInSight_Explore_CA.csv
+17,Alabama - Public,2016-17,0.5,32307,16153,,,,7672,,CollegeInSight_Explore_CA.csv
+18,Alabama - Public,2015-16,0.48,31612,15174,15255,0.39,7425,7403,0.39,CollegeInSight_Explore_CA.csv
+19,Alabama - Public,2014-15,0.49,29439,14571,14948,0.39,7068,7033,0.37,CollegeInSight_Explore_CA.csv
+20,Alabama - Public,2013-14,0.51,29706,15280,14360,0.38,6915,6718,0.35,CollegeInSight_Explore_CA.csv
+21,Alabama - Public,2012-13,0.53,28994,15365,14620,0.38,6835,6444,0.33,CollegeInSight_Explore_CA.csv
+22,Alabama - Public,2011-12,0.5,26544,13176,14817,0.39,6183,5982,0.34,CollegeInSight_Explore_CA.csv
+23,Alabama - Public,2010-11,0.51,25920,13240,13707,0.35,6872,5307,0.35,CollegeInSight_Explore_CA.csv
+24,Alabama - Public,2009-10,0.55,25388,13949,12875,0.33,6740,4599,0.34,CollegeInSight_Explore_CA.csv
+25,Alabama - Total,2016-17,0.5,31899,15950,,,,9245,,CollegeInSight_Explore_CA.csv
+26,Alabama - Total,2015-16,0.5,31275,15638,19631,0.43,7345,9055,0.39,CollegeInSight_Explore_CA.csv
+27,Alabama - Total,2014-15,0.52,29153,15129,20243,0.44,6983,8690,0.38,CollegeInSight_Explore_CA.csv
+28,Alabama - Total,2013-14,0.54,29425,15903,19757,0.44,7038,8439,0.36,CollegeInSight_Explore_CA.csv
+29,Alabama - Total,2012-13,0.54,28895,15661,20436,0.44,6874,8050,0.36,CollegeInSight_Explore_CA.csv
+30,Alabama - Total,2011-12,0.53,26450,14074,20261,0.44,6445,7519,0.37,CollegeInSight_Explore_CA.csv
+31,Alabama - Total,2010-11,0.54,25463,13651,20724,0.43,7077,6968,0.37,CollegeInSight_Explore_CA.csv
+32,Alabama - Total,2009-10,0.56,24821,14017,20336,0.4,6851,6290,0.37,CollegeInSight_Explore_CA.csv
+33,"Alaska - Private, for-profit",2016-17,,,,,,,,,CollegeInSight_Explore_CA.csv
+34,"Alaska - Private, for-profit",2015-16,,,,1045,0.79,9025,20137,0.53,CollegeInSight_Explore_CA.csv
+35,"Alaska - Private, for-profit",2014-15,,,,640,0.79,7593,19532,0.53,CollegeInSight_Explore_CA.csv
+36,"Alaska - Private, for-profit",2013-14,,,,1094,0.78,8645,19882,0.55,CollegeInSight_Explore_CA.csv
+37,"Alaska - Private, for-profit",2012-13,,,,413,0.56,5222,19700,0.47,CollegeInSight_Explore_CA.csv
+38,"Alaska - Private, for-profit",2011-12,,,,831,0.85,8832,17725,0.6,CollegeInSight_Explore_CA.csv
+39,"Alaska - Private, for-profit",2010-11,,,,595,0.57,7874,17750,0.77,CollegeInSight_Explore_CA.csv
+40,"Alaska - Private, for-profit",2009-10,,,,536,0.69,7320,17750,0.77,CollegeInSight_Explore_CA.csv
+41,"Alaska - Private, nonprofit",2016-17,,,,,,,14262,,CollegeInSight_Explore_CA.csv
+42,"Alaska - Private, nonprofit",2015-16,0.73,8922,6513,41,0.64,6322,14941,0.32,CollegeInSight_Explore_CA.csv
+43,"Alaska - Private, nonprofit",2014-15,0.63,8922,5621,37,0.63,6295,11674,0.42,CollegeInSight_Explore_CA.csv
+44,"Alaska - Private, nonprofit",2013-14,0.63,8922,5621,37,0.64,6343,19019,0.5,CollegeInSight_Explore_CA.csv
+45,"Alaska - Private, nonprofit",2012-13,0.56,9757,5464,31,0.56,3609,18415,0.25,CollegeInSight_Explore_CA.csv
+46,"Alaska - Private, nonprofit",2011-12,,,,19,0.45,3259,16066,0.41,CollegeInSight_Explore_CA.csv
+47,"Alaska - Private, nonprofit",2010-11,,,,37,0.46,3998,18337,0.4,CollegeInSight_Explore_CA.csv
+48,"Alaska - Private, nonprofit",2009-10,0.55,31000,17050,42,0.58,6094,16818,0.29,CollegeInSight_Explore_CA.csv
+49,Alaska - Public,2016-17,0.46,25682,11814,,,,5988,,CollegeInSight_Explore_CA.csv
+50,Alaska - Public,2015-16,0.49,26310,12892,629,0.25,5367,5614,0.32,CollegeInSight_Explore_CA.csv
+51,Alaska - Public,2014-15,0.55,26986,14726,714,0.27,5707,5423,0.3,CollegeInSight_Explore_CA.csv
+52,Alaska - Public,2013-14,0.5,27728,13775,798,0.28,5639,5108,0.33,CollegeInSight_Explore_CA.csv
+53,Alaska - Public,2012-13,0.49,29467,14429,870,0.3,5365,5758,0.37,CollegeInSight_Explore_CA.csv
+54,Alaska - Public,2011-12,0.47,30164,14245,1012,0.34,5628,5429,0.35,CollegeInSight_Explore_CA.csv
+55,Alaska - Public,2010-11,,,,1041,0.35,6094,5219,0.32,CollegeInSight_Explore_CA.csv
+56,Alaska - Public,2009-10,,,,1036,0.36,6403,4966,0.37,CollegeInSight_Explore_CA.csv
+57,Alaska - Total,2016-17,0.46,25682,11814,,,,6275,,CollegeInSight_Explore_CA.csv
+58,Alaska - Total,2015-16,0.49,26008,12744,1715,0.44,7619,8793,0.4,CollegeInSight_Explore_CA.csv
+59,Alaska - Total,2014-15,0.55,26171,14367,1391,0.39,6590,7759,0.39,CollegeInSight_Explore_CA.csv
+60,Alaska - Total,2013-14,0.5,26742,13434,1929,0.45,7358,9818,0.4,CollegeInSight_Explore_CA.csv
+61,Alaska - Total,2012-13,0.49,28570,14071,1314,0.35,5279,9732,0.4,CollegeInSight_Explore_CA.csv
+62,Alaska - Total,2011-12,0.49,28782,14000,1862,0.46,7034,8545,0.41,CollegeInSight_Explore_CA.csv
+63,Alaska - Total,2010-11,,,,1673,0.41,6681,10155,0.4,CollegeInSight_Explore_CA.csv
+64,Alaska - Total,2009-10,,,,1614,0.43,6699,6472,0.42,CollegeInSight_Explore_CA.csv
+65,"Arizona - Private, for-profit",2016-17,,,,,,,12610,,CollegeInSight_Explore_CA.csv
+66,"Arizona - Private, for-profit",2015-16,,,,19666,0.72,8415,12941,0.26,CollegeInSight_Explore_CA.csv
+67,"Arizona - Private, for-profit",2014-15,,,,26076,0.78,8004,11793,0.23,CollegeInSight_Explore_CA.csv
+68,"Arizona - Private, for-profit",2013-14,,,,27003,0.8,8147,12154,0.24,CollegeInSight_Explore_CA.csv
+69,"Arizona - Private, for-profit",2012-13,,,,32819,0.82,7878,11627,0.3,CollegeInSight_Explore_CA.csv
+70,"Arizona - Private, for-profit",2011-12,,,,40025,0.84,7946,11373,0.34,CollegeInSight_Explore_CA.csv
+71,"Arizona - Private, for-profit",2010-11,,,,31497,0.85,7623,12083,0.32,CollegeInSight_Explore_CA.csv
+72,"Arizona - Private, for-profit",2009-10,,,,109023,0.88,9563,11054,0.29,CollegeInSight_Explore_CA.csv
+73,"Arizona - Private, nonprofit",2016-17,,,,,,,30020,,CollegeInSight_Explore_CA.csv
+74,"Arizona - Private, nonprofit",2015-16,,,,541,0.52,11266,29200,0.48,CollegeInSight_Explore_CA.csv
+75,"Arizona - Private, nonprofit",2014-15,,,,533,0.61,9892,26627,0.45,CollegeInSight_Explore_CA.csv
+76,"Arizona - Private, nonprofit",2013-14,0.65,25375,16485,629,0.71,9794,27120,0.49,CollegeInSight_Explore_CA.csv
+77,"Arizona - Private, nonprofit",2012-13,,,,347,0.63,10403,27997,0.55,CollegeInSight_Explore_CA.csv
+78,"Arizona - Private, nonprofit",2011-12,,,,374,0.69,8512,26616,0.53,CollegeInSight_Explore_CA.csv
+79,"Arizona - Private, nonprofit",2010-11,,,,374,0.7,8014,25976,0.52,CollegeInSight_Explore_CA.csv
+80,"Arizona - Private, nonprofit",2009-10,0.71,7708,5461,338,0.67,7935,24379,0.57,CollegeInSight_Explore_CA.csv
+81,Arizona - Public,2016-17,0.54,23948,12932,,,,7432,,CollegeInSight_Explore_CA.csv
+82,Arizona - Public,2015-16,0.49,23433,11482,11759,0.31,6136,7278,0.41,CollegeInSight_Explore_CA.csv
+83,Arizona - Public,2014-15,0.56,23760,13358,12561,0.33,6068,6928,0.4,CollegeInSight_Explore_CA.csv
+84,Arizona - Public,2013-14,0.57,22575,12939,12367,0.33,5774,6439,0.38,CollegeInSight_Explore_CA.csv
+85,Arizona - Public,2012-13,0.56,22170,12365,11997,0.32,5664,6079,0.36,CollegeInSight_Explore_CA.csv
+86,Arizona - Public,2011-12,0.54,20265,10928,13239,0.35,5524,5815,0.36,CollegeInSight_Explore_CA.csv
+87,Arizona - Public,2010-11,0.49,20017,9846,11969,0.32,5403,4852,0.41,CollegeInSight_Explore_CA.csv
+88,Arizona - Public,2009-10,0.47,18984,8842,11292,0.31,5337,4373,0.43,CollegeInSight_Explore_CA.csv
+89,Arizona - Total,2016-17,0.54,23967,12942,,,,8827,,CollegeInSight_Explore_CA.csv
+90,Arizona - Total,2015-16,0.49,23447,11489,31966,0.48,7625,8923,0.31,CollegeInSight_Explore_CA.csv
+91,Arizona - Total,2014-15,0.56,23780,13380,39170,0.54,7409,8633,0.27,CollegeInSight_Explore_CA.csv
+92,Arizona - Total,2013-14,0.57,22609,12977,39999,0.56,7439,8447,0.27,CollegeInSight_Explore_CA.csv
+93,Arizona - Total,2012-13,0.56,22242,12477,45163,0.58,7309,8220,0.32,CollegeInSight_Explore_CA.csv
+94,Arizona - Total,2011-12,0.54,20299,10971,53638,0.62,7352,8145,0.34,CollegeInSight_Explore_CA.csv
+95,Arizona - Total,2010-11,0.49,19946,9836,43840,0.59,7020,6572,0.35,CollegeInSight_Explore_CA.csv
+96,Arizona - Total,2009-10,0.47,18454,8736,120653,0.75,9163,8315,0.33,CollegeInSight_Explore_CA.csv
+97,"Arkansas - Private, for-profit",2016-17,,,,,,,15397,,CollegeInSight_Explore_CA.csv
+98,"Arkansas - Private, for-profit",2015-16,,,,1312,0.78,5659,17488,0.49,CollegeInSight_Explore_CA.csv
+99,"Arkansas - Private, for-profit",2014-15,,,,1802,0.77,5808,17464,0.43,CollegeInSight_Explore_CA.csv
+100,"Arkansas - Private, for-profit",2013-14,,,,1706,0.69,7015,15038,0.48,CollegeInSight_Explore_CA.csv
+101,"Arkansas - Private, for-profit",2012-13,,,,1526,0.76,6699,13687,0.54,CollegeInSight_Explore_CA.csv
+102,"Arkansas - Private, for-profit",2011-12,,,,1929,0.77,6846,15713,0.52,CollegeInSight_Explore_CA.csv
+103,"Arkansas - Private, for-profit",2010-11,,,,2265,0.73,6596,14421,0.56,CollegeInSight_Explore_CA.csv
+104,"Arkansas - Private, for-profit",2009-10,,,,2991,0.77,6721,15276,0.54,CollegeInSight_Explore_CA.csv
+105,"Arkansas - Private, nonprofit",2016-17,0.65,30120,19578,,,,20403,,CollegeInSight_Explore_CA.csv
+106,"Arkansas - Private, nonprofit",2015-16,0.74,30507,22575,2370,0.68,6751,21023,0.52,CollegeInSight_Explore_CA.csv
+107,"Arkansas - Private, nonprofit",2014-15,0.64,28570,18345,2320,0.67,6700,19817,0.55,CollegeInSight_Explore_CA.csv
+108,"Arkansas - Private, nonprofit",2013-14,0.6,26573,15830,2166,0.63,7097,19653,0.56,CollegeInSight_Explore_CA.csv
+109,"Arkansas - Private, nonprofit",2012-13,0.6,25773,15577,2041,0.62,6845,18452,0.54,CollegeInSight_Explore_CA.csv
+110,"Arkansas - Private, nonprofit",2011-12,0.61,28069,17064,2377,0.66,6145,17727,0.6,CollegeInSight_Explore_CA.csv
+111,"Arkansas - Private, nonprofit",2010-11,0.62,26849,16586,2195,0.63,6229,16791,0.56,CollegeInSight_Explore_CA.csv
+112,"Arkansas - Private, nonprofit",2009-10,0.65,25087,16216,1833,0.58,5792,16540,0.56,CollegeInSight_Explore_CA.csv
+113,Arkansas - Public,2016-17,0.52,25136,13071,,,,6426,,CollegeInSight_Explore_CA.csv
+114,Arkansas - Public,2015-16,0.49,24647,12077,8848,0.41,5950,6152,0.37,CollegeInSight_Explore_CA.csv
+115,Arkansas - Public,2014-15,0.55,26069,14248,8936,0.41,5797,5857,0.35,CollegeInSight_Explore_CA.csv
+116,Arkansas - Public,2013-14,0.54,25512,13824,9094,0.41,5800,5409,0.35,CollegeInSight_Explore_CA.csv
+117,Arkansas - Public,2012-13,0.54,25257,13749,9006,0.39,5505,5226,0.33,CollegeInSight_Explore_CA.csv
+118,Arkansas - Public,2011-12,0.53,21514,11306,9784,0.43,5532,4970,0.33,CollegeInSight_Explore_CA.csv
+119,Arkansas - Public,2010-11,0.54,21413,11481,8486,0.38,5247,4702,0.34,CollegeInSight_Explore_CA.csv
+120,Arkansas - Public,2009-10,0.54,19562,10608,8639,0.4,5468,4290,0.33,CollegeInSight_Explore_CA.csv
+121,Arkansas - Total,2016-17,0.55,26799,14740,,,,8482,,CollegeInSight_Explore_CA.csv
+122,Arkansas - Total,2015-16,0.56,26859,15041,12530,0.47,6071,8247,0.4,CollegeInSight_Explore_CA.csv
+123,Arkansas - Total,2014-15,0.57,26734,15213,13058,0.48,5959,7812,0.39,CollegeInSight_Explore_CA.csv
+124,Arkansas - Total,2013-14,0.55,25779,14294,12966,0.46,6176,7377,0.39,CollegeInSight_Explore_CA.csv
+125,Arkansas - Total,2012-13,0.56,25404,14231,12573,0.45,5868,6957,0.38,CollegeInSight_Explore_CA.csv
+126,Arkansas - Total,2011-12,0.55,23327,12736,14090,0.49,5815,6859,0.38,CollegeInSight_Explore_CA.csv
+127,Arkansas - Total,2010-11,0.56,23048,12869,12946,0.45,5650,6543,0.38,CollegeInSight_Explore_CA.csv
+128,Arkansas - Total,2009-10,0.57,21408,12270,13463,0.47,5790,6165,0.37,CollegeInSight_Explore_CA.csv
+129,"California - Private, for-profit",2016-17,,,,,,,21243,,CollegeInSight_Explore_CA.csv
+130,"California - Private, for-profit",2015-16,,,,39458,0.66,7920,19444,0.61,CollegeInSight_Explore_CA.csv
+131,"California - Private, for-profit",2014-15,,,,43538,0.66,8066,17390,0.61,CollegeInSight_Explore_CA.csv
+132,"California - Private, for-profit",2013-14,,,,50536,0.68,8376,17806,0.62,CollegeInSight_Explore_CA.csv
+133,"California - Private, for-profit",2012-13,,,,55885,0.71,8383,17621,0.66,CollegeInSight_Explore_CA.csv
+134,"California - Private, for-profit",2011-12,,,,78540,0.76,7542,17069,0.67,CollegeInSight_Explore_CA.csv
+135,"California - Private, for-profit",2010-11,,,,90070,0.76,7845,16642,0.65,CollegeInSight_Explore_CA.csv
+136,"California - Private, for-profit",2009-10,,,,108962,0.73,8199,18471,0.64,CollegeInSight_Explore_CA.csv
+137,"California - Private, nonprofit",2016-17,0.51,31493,16062,,,,41300,,CollegeInSight_Explore_CA.csv
+138,"California - Private, nonprofit",2015-16,0.54,29438,15896,15950,0.48,7350,40644,0.73,CollegeInSight_Explore_CA.csv
+139,"California - Private, nonprofit",2014-15,0.59,32305,19198,16738,0.52,7500,39231,0.74,CollegeInSight_Explore_CA.csv
+140,"California - Private, nonprofit",2013-14,0.61,27489,16857,17124,0.54,7590,37791,0.74,CollegeInSight_Explore_CA.csv
+141,"California - Private, nonprofit",2012-13,0.6,28191,17029,17417,0.54,7467,36367,0.75,CollegeInSight_Explore_CA.csv
+142,"California - Private, nonprofit",2011-12,0.62,29037,17919,17664,0.56,7005,35106,0.74,CollegeInSight_Explore_CA.csv
+143,"California - Private, nonprofit",2010-11,0.61,28063,17075,19241,0.59,6893,33712,0.73,CollegeInSight_Explore_CA.csv
+144,"California - Private, nonprofit",2009-10,0.58,26510,15503,16669,0.54,7105,32555,0.73,CollegeInSight_Explore_CA.csv
+145,California - Public,2016-17,0.5,20382,10191,,,,5339,,CollegeInSight_Explore_CA.csv
+146,California - Public,2015-16,0.52,20477,10648,41437,0.19,5367,5205,0.48,CollegeInSight_Explore_CA.csv
+147,California - Public,2014-15,0.53,19344,10259,43367,0.2,5348,5160,0.48,CollegeInSight_Explore_CA.csv
+148,California - Public,2013-14,0.53,19476,10333,42819,0.2,5472,5087,0.47,CollegeInSight_Explore_CA.csv
+149,California - Public,2012-13,0.53,18066,9649,42756,0.22,5382,5210,0.44,CollegeInSight_Explore_CA.csv
+150,California - Public,2011-12,0.5,17994,9071,44243,0.23,5264,4894,0.43,CollegeInSight_Explore_CA.csv
+151,California - Public,2010-11,0.5,16840,8380,37914,0.19,5092,3747,0.41,CollegeInSight_Explore_CA.csv
+152,California - Public,2009-10,0.46,15913,7366,36551,0.17,5092,3195,0.44,CollegeInSight_Explore_CA.csv
+153,California - Total,2016-17,0.5,22785,11392,,,,9712,,CollegeInSight_Explore_CA.csv
+154,California - Total,2015-16,0.53,22744,12054,96845,0.31,6734,9572,0.54,CollegeInSight_Explore_CA.csv
+155,California - Total,2014-15,0.54,22191,12054,103643,0.32,6838,9462,0.54,CollegeInSight_Explore_CA.csv
+156,California - Total,2013-14,0.55,21379,11718,110479,0.34,7128,9352,0.54,CollegeInSight_Explore_CA.csv
+157,California - Total,2012-13,0.55,20340,11153,116058,0.38,7140,9660,0.54,CollegeInSight_Explore_CA.csv
+158,California - Total,2011-12,0.52,20270,10619,140447,0.43,6757,9242,0.53,CollegeInSight_Explore_CA.csv
+159,California - Total,2010-11,0.51,18867,9709,147225,0.42,7012,8276,0.51,CollegeInSight_Explore_CA.csv
+160,California - Total,2009-10,0.48,18094,8750,162182,0.42,7386,7260,0.53,CollegeInSight_Explore_CA.csv
+161,"Colorado - Private, for-profit",2016-17,,,,,,,11685,,CollegeInSight_Explore_DE
+162,"Colorado - Private, for-profit",2015-16,,,,5905,0.69,7235,12713,0.51,CollegeInSight_Explore_DE
+163,"Colorado - Private, for-profit",2014-15,,,,6795,0.73,7497,12868,0.51,CollegeInSight_Explore_DE
+164,"Colorado - Private, for-profit",2013-14,,,,8154,0.73,7830,12584,0.5,CollegeInSight_Explore_DE
+165,"Colorado - Private, for-profit",2012-13,,,,8649,0.71,8506,13410,0.49,CollegeInSight_Explore_DE
+166,"Colorado - Private, for-profit",2011-12,,,,10098,0.79,7228,13315,0.55,CollegeInSight_Explore_DE
+167,"Colorado - Private, for-profit",2010-11,,,,12266,0.83,7972,12555,0.52,CollegeInSight_Explore_DE
+168,"Colorado - Private, for-profit",2009-10,,,,15604,0.84,9096,12673,0.55,CollegeInSight_Explore_DE
+169,"Colorado - Private, nonprofit",2016-17,0.47,28047,13182,,,,40615,,CollegeInSight_Explore_DE
+170,"Colorado - Private, nonprofit",2015-16,0.47,27645,12993,1695,0.5,7349,39117,0.62,CollegeInSight_Explore_DE
+171,"Colorado - Private, nonprofit",2014-15,0.51,28519,14568,1681,0.51,7915,37167,0.58,CollegeInSight_Explore_DE
+172,"Colorado - Private, nonprofit",2013-14,0.53,27615,14717,1739,0.5,8762,35627,0.58,CollegeInSight_Explore_DE
+173,"Colorado - Private, nonprofit",2012-13,0.54,28506,15505,1486,0.51,7501,33572,0.68,CollegeInSight_Explore_DE
+174,"Colorado - Private, nonprofit",2011-12,0.49,27958,13817,1563,0.51,7294,32882,0.69,CollegeInSight_Explore_DE
+175,"Colorado - Private, nonprofit",2010-11,0.42,24896,10564,1484,0.49,7013,32158,0.7,CollegeInSight_Explore_DE
+176,"Colorado - Private, nonprofit",2009-10,0.52,27176,14153,1383,0.42,6565,30629,0.7,CollegeInSight_Explore_DE
+177,Colorado - Public,2016-17,0.53,26351,13966,,,,8785,,CollegeInSight_Explore_DE
+178,Colorado - Public,2015-16,0.54,26396,14254,12590,0.42,6579,8354,0.49,CollegeInSight_Explore_DE
+179,Colorado - Public,2014-15,0.57,25515,14552,12419,0.43,6442,7942,0.49,CollegeInSight_Explore_DE
+180,Colorado - Public,2013-14,0.57,24741,14026,12816,0.44,6606,7435,0.48,CollegeInSight_Explore_DE
+181,Colorado - Public,2012-13,0.56,24067,13489,13464,0.46,6442,6635,0.46,CollegeInSight_Explore_DE
+182,Colorado - Public,2011-12,0.52,23987,12579,14591,0.48,6285,6317,0.46,CollegeInSight_Explore_DE
+183,Colorado - Public,2010-11,0.56,22054,12313,14558,0.46,6178,5600,0.46,CollegeInSight_Explore_DE
+184,Colorado - Public,2009-10,0.55,21192,11746,14258,0.47,5942,5009,0.47,CollegeInSight_Explore_DE
+185,Colorado - Total,2016-17,0.52,26530,13795,,,,11857,,CollegeInSight_Explore_DE
+186,Colorado - Total,2015-16,0.53,26520,14056,20190,0.49,6836,11619,0.5,CollegeInSight_Explore_DE
+187,Colorado - Total,2014-15,0.56,25840,14554,20895,0.5,6903,11159,0.5,CollegeInSight_Explore_DE
+188,Colorado - Total,2013-14,0.56,25064,14108,22709,0.52,7211,10475,0.49,CollegeInSight_Explore_DE
+189,Colorado - Total,2012-13,0.56,24608,13742,23599,0.53,7265,9542,0.49,CollegeInSight_Explore_DE
+190,Colorado - Total,2011-12,0.52,24540,12761,26252,0.57,6708,9217,0.5,CollegeInSight_Explore_DE
+191,Colorado - Total,2010-11,0.54,22283,12132,28308,0.58,6999,8658,0.49,CollegeInSight_Explore_DE
+192,Colorado - Total,2009-10,0.55,22017,12096,31245,0.59,7545,8635,0.5,CollegeInSight_Explore_DE
+193,"Connecticut - Private, for-profit",2016-17,,,,,,,17031,,CollegeInSight_Explore_DE
+194,"Connecticut - Private, for-profit",2015-16,,,,4696,0.79,7493,17243,0.65,CollegeInSight_Explore_DE
+195,"Connecticut - Private, for-profit",2014-15,,,,5319,0.8,7744,17250,0.61,CollegeInSight_Explore_DE
+196,"Connecticut - Private, for-profit",2013-14,,,,5900,0.81,7992,19528,0.6,CollegeInSight_Explore_DE
+197,"Connecticut - Private, for-profit",2012-13,,,,6256,0.79,7768,22417,0.61,CollegeInSight_Explore_DE
+198,"Connecticut - Private, for-profit",2011-12,,,,6654,0.77,7636,21418,0.61,CollegeInSight_Explore_DE
+199,"Connecticut - Private, for-profit",2010-11,,,,8578,0.78,7369,20441,0.62,CollegeInSight_Explore_DE
+200,"Connecticut - Private, for-profit",2009-10,,,,8762,0.76,7452,22473,0.63,CollegeInSight_Explore_DE
+201,"Connecticut - Private, nonprofit",2016-17,0.56,38824,21741,,,,42713,,CollegeInSight_Explore_DE
+202,"Connecticut - Private, nonprofit",2015-16,0.54,38607,20848,6390,0.57,9878,40949,0.71,CollegeInSight_Explore_DE
+203,"Connecticut - Private, nonprofit",2014-15,0.59,39230,23010,6386,0.58,9384,39466,0.71,CollegeInSight_Explore_DE
+204,"Connecticut - Private, nonprofit",2013-14,0.59,36242,21228,6213,0.57,9691,38282,0.69,CollegeInSight_Explore_DE
+205,"Connecticut - Private, nonprofit",2012-13,0.63,36236,22941,5969,0.56,9469,37086,0.73,CollegeInSight_Explore_DE
+206,"Connecticut - Private, nonprofit",2011-12,0.56,33741,18957,6187,0.59,8864,35598,0.72,CollegeInSight_Explore_DE
+207,"Connecticut - Private, nonprofit",2010-11,0.56,33459,18748,6381,0.59,8488,33792,0.73,CollegeInSight_Explore_DE
+208,"Connecticut - Private, nonprofit",2009-10,0.56,32316,18122,6234,0.58,8845,31933,0.75,CollegeInSight_Explore_DE
+209,Connecticut - Public,2016-17,,,,,,,8977,,CollegeInSight_Explore_DE
+210,Connecticut - Public,2015-16,0.76,29418,22358,5633,0.37,6773,8478,0.45,CollegeInSight_Explore_DE
+211,Connecticut - Public,2014-15,0.75,28176,21028,5632,0.37,6656,7926,0.45,CollegeInSight_Explore_DE
+212,Connecticut - Public,2013-14,0.65,24831,16181,5732,0.36,7522,7670,0.43,CollegeInSight_Explore_DE
+213,Connecticut - Public,2012-13,0.65,25348,16519,5592,0.36,6608,6958,0.41,CollegeInSight_Explore_DE
+214,Connecticut - Public,2011-12,0.64,23972,15405,5996,0.37,6226,6664,0.4,CollegeInSight_Explore_DE
+215,Connecticut - Public,2010-11,0.69,24402,16803,5669,0.34,6117,6442,0.4,CollegeInSight_Explore_DE
+216,Connecticut - Public,2009-10,0.65,22443,14515,5607,0.34,5997,6041,0.41,CollegeInSight_Explore_DE
+217,Connecticut - Total,2016-17,0.57,38510,21951,,,,22857,,CollegeInSight_Explore_DE
+218,Connecticut - Total,2015-16,0.6,35494,21297,16719,0.52,8162,21913,0.57,CollegeInSight_Explore_DE
+219,Connecticut - Total,2014-15,0.64,34773,22323,17337,0.53,7995,20911,0.56,CollegeInSight_Explore_DE
+220,Connecticut - Total,2013-14,0.62,29750,18490,17845,0.53,8433,20241,0.55,CollegeInSight_Explore_DE
+221,Connecticut - Total,2012-13,0.64,30183,19417,17817,0.52,7974,19268,0.54,CollegeInSight_Explore_DE
+222,Connecticut - Total,2011-12,0.61,27816,16918,18837,0.53,7591,18272,0.54,CollegeInSight_Explore_DE
+223,Connecticut - Total,2010-11,0.62,28433,17768,20628,0.53,7371,17384,0.55,CollegeInSight_Explore_DE
+224,Connecticut - Total,2009-10,0.61,26392,16083,20603,0.53,7477,16274,0.56,CollegeInSight_Explore_DE
+225,"Delaware - Private, for-profit",2016-17,,,,,,,12975,,CollegeInSight_Explore_DE
+226,"Delaware - Private, for-profit",2015-16,,,,905,0.65,6566,12975,0.67,CollegeInSight_Explore_DE
+227,"Delaware - Private, for-profit",2014-15,,,,1185,0.7,6250,12975,0.64,CollegeInSight_Explore_DE
+228,"Delaware - Private, for-profit",2013-14,,,,1348,0.71,6591,15495,0.64,CollegeInSight_Explore_DE
+229,"Delaware - Private, for-profit",2012-13,,,,1639,0.54,6277,10240,0.65,CollegeInSight_Explore_DE
+230,"Delaware - Private, for-profit",2011-12,,,,2249,0.68,5739,10212,0.64,CollegeInSight_Explore_DE
+231,"Delaware - Private, for-profit",2010-11,,,,2491,0.73,5449,,0.65,CollegeInSight_Explore_DE
+232,"Delaware - Private, for-profit",2009-10,,,,2145,0.75,5386,,0.7,CollegeInSight_Explore_DE
+233,"Delaware - Private, nonprofit",2016-17,,,,,,,20190,,CollegeInSight_Explore_DE
+234,"Delaware - Private, nonprofit",2015-16,,,,699,0.72,6257,19896,0.34,CollegeInSight_Explore_DE
+235,"Delaware - Private, nonprofit",2014-15,,,,697,0.7,6962,19699,0.28,CollegeInSight_Explore_DE
+236,"Delaware - Private, nonprofit",2013-14,,,,793,0.8,7257,18357,0.34,CollegeInSight_Explore_DE
+237,"Delaware - Private, nonprofit",2012-13,,,,851,0.76,7245,18464,0.35,CollegeInSight_Explore_DE
+238,"Delaware - Private, nonprofit",2011-12,,,,925,0.73,8060,16778,0.38,CollegeInSight_Explore_DE
+239,"Delaware - Private, nonprofit",2010-11,,,,896,0.79,6900,16285,0.38,CollegeInSight_Explore_DE
+240,"Delaware - Private, nonprofit",2009-10,,,,962,0.84,6973,16330,0.38,CollegeInSight_Explore_DE
+241,Delaware - Public,2016-17,0.62,34144,21169,,,,9831,,CollegeInSight_Explore_DE
+242,Delaware - Public,2015-16,0.63,33838,21318,3267,0.46,8119,9679,0.55,CollegeInSight_Explore_DE
+243,Delaware - Public,2014-15,0.65,33849,21878,3317,0.46,8085,9406,0.56,CollegeInSight_Explore_DE
+244,Delaware - Public,2013-14,0.62,33808,20950,3217,0.44,7913,8888,0.53,CollegeInSight_Explore_DE
+245,Delaware - Public,2012-13,0.62,32571,20194,3347,0.46,7414,8650,0.54,CollegeInSight_Explore_DE
+246,Delaware - Public,2011-12,0.56,33649,18843,3475,0.45,7226,8080,0.52,CollegeInSight_Explore_DE
+247,Delaware - Public,2010-11,,,,2796,0.39,6888,7374,0.49,CollegeInSight_Explore_DE
+248,Delaware - Public,2009-10,,,,3200,0.43,7415,7040,0.49,CollegeInSight_Explore_DE
+249,Delaware - Total,2016-17,0.62,34144,21169,,,,10953,,CollegeInSight_Explore_DE
+250,Delaware - Total,2015-16,0.63,33838,21318,4871,0.51,7563,10908,0.54,CollegeInSight_Explore_DE
+251,Delaware - Total,2014-15,0.65,33849,21878,5199,0.52,7516,10639,0.55,CollegeInSight_Explore_DE
+252,Delaware - Total,2013-14,0.62,33808,20950,5358,0.52,7484,10043,0.53,CollegeInSight_Explore_DE
+253,Delaware - Total,2012-13,0.62,32571,20194,5837,0.51,7070,9899,0.54,CollegeInSight_Explore_DE
+254,Delaware - Total,2011-12,0.56,33649,18843,6649,0.54,6839,9259,0.52,CollegeInSight_Explore_DE
+255,Delaware - Total,2010-11,,,,6183,0.53,6310,8615,0.51,CollegeInSight_Explore_DE
+256,Delaware - Total,2009-10,,,,6307,0.55,6657,8300,0.51,CollegeInSight_Explore_DE
+257,"District of Columbia - Private, for-profit",2016-17,,,,,,,13569,,CollegeInSight_Explore_DE
+258,"District of Columbia - Private, for-profit",2015-16,,,,1195,0.83,6793,13291,0.6,CollegeInSight_Explore_DE
+259,"District of Columbia - Private, for-profit",2014-15,,,,1329,0.75,8084,12693,0.55,CollegeInSight_Explore_DE
+260,"District of Columbia - Private, for-profit",2013-14,,,,1400,0.84,7898,12843,0.55,CollegeInSight_Explore_DE
+261,"District of Columbia - Private, for-profit",2012-13,,,,1201,0.92,7235,12518,0.54,CollegeInSight_Explore_DE
+262,"District of Columbia - Private, for-profit",2011-12,,,,869,0.76,6603,11736,0.5,CollegeInSight_Explore_DE
+263,"District of Columbia - Private, for-profit",2010-11,,,,783,0.82,5923,12316,0.5,CollegeInSight_Explore_DE
+264,"District of Columbia - Private, for-profit",2009-10,,,,707,0.78,5098,14307,0.52,CollegeInSight_Explore_DE
+265,"District of Columbia - Private, nonprofit",2016-17,0.46,30775,14156,,,,44255,,CollegeInSight_Explore_DE
+266,"District of Columbia - Private, nonprofit",2015-16,0.53,31129,16498,4259,0.48,7724,41376,0.77,CollegeInSight_Explore_DE
+267,"District of Columbia - Private, nonprofit",2014-15,0.55,31452,17327,4667,0.55,7378,40183,0.77,CollegeInSight_Explore_DE
+268,"District of Columbia - Private, nonprofit",2013-14,,,,4373,0.52,7485,38450,0.76,CollegeInSight_Explore_DE
+269,"District of Columbia - Private, nonprofit",2012-13,,,,4027,0.49,7843,37555,0.76,CollegeInSight_Explore_DE
+270,"District of Columbia - Private, nonprofit",2011-12,0.56,22106,12286,4418,0.54,7287,35549,0.75,CollegeInSight_Explore_DE
+271,"District of Columbia - Private, nonprofit",2010-11,0.52,28241,14771,4464,0.53,7126,34362,0.76,CollegeInSight_Explore_DE
+272,"District of Columbia - Private, nonprofit",2009-10,0.51,26932,13729,4618,0.54,7774,32875,0.81,CollegeInSight_Explore_DE
+273,District of Columbia - Public,2016-17,,,,,,,5612,,CollegeInSight_Explore_DE
+274,District of Columbia - Public,2015-16,0.67,22964,15386,67,0.3,5530,5251,0.13,CollegeInSight_Explore_DE
+275,District of Columbia - Public,2014-15,,,,84,0.43,5945,5251,0.15,CollegeInSight_Explore_DE
+276,District of Columbia - Public,2013-14,,,,134,0.56,5592,5138,0.13,CollegeInSight_Explore_DE
+277,District of Columbia - Public,2012-13,,,,114,0.56,5474,7244,0.16,CollegeInSight_Explore_DE
+278,District of Columbia - Public,2011-12,,,,134,0.41,2989,7000,0.15,CollegeInSight_Explore_DE
+279,District of Columbia - Public,2010-11,,,,97,0.21,2620,7000,0.17,CollegeInSight_Explore_DE
+280,District of Columbia - Public,2009-10,,,,116,0.25,1833,3000,0.12,CollegeInSight_Explore_DE
+281,District of Columbia - Total,2016-17,0.46,30775,14156,,,,42922,,CollegeInSight_Explore_DE
+282,District of Columbia - Total,2015-16,0.53,31054,16459,5521,0.52,7496,40297,0.74,CollegeInSight_Explore_DE
+283,District of Columbia - Total,2014-15,0.55,31452,17327,6080,0.58,7513,39246,0.72,CollegeInSight_Explore_DE
+284,District of Columbia - Total,2013-14,,,,5907,0.57,7540,37403,0.72,CollegeInSight_Explore_DE
+285,District of Columbia - Total,2012-13,,,,5342,0.55,7656,36583,0.71,CollegeInSight_Explore_DE
+286,District of Columbia - Total,2011-12,0.56,22106,12286,5421,0.56,7071,34271,0.71,CollegeInSight_Explore_DE
+287,District of Columbia - Total,2010-11,0.52,28241,14771,5344,0.54,6868,32760,0.72,CollegeInSight_Explore_DE
+288,District of Columbia - Total,2009-10,0.54,24191,12949,5441,0.55,7300,30093,0.76,CollegeInSight_Explore_DE
+289,"Florida - Private, for-profit",2016-17,,,,,,,18897,,CollegeInSight_Explore_IN.csv
+290,"Florida - Private, for-profit",2015-16,,,,20389,0.67,8042,18801,0.54,CollegeInSight_Explore_IN.csv
+291,"Florida - Private, for-profit",2014-15,,,,31112,0.57,7802,19216,0.54,CollegeInSight_Explore_IN.csv
+292,"Florida - Private, for-profit",2013-14,,,,34260,0.58,8067,17786,0.54,CollegeInSight_Explore_IN.csv
+293,"Florida - Private, for-profit",2012-13,,,,51970,0.76,7065,16751,0.59,CollegeInSight_Explore_IN.csv
+294,"Florida - Private, for-profit",2011-12,,,,59815,0.8,6960,16891,0.61,CollegeInSight_Explore_IN.csv
+295,"Florida - Private, for-profit",2010-11,,,,59391,0.79,8042,16260,0.63,CollegeInSight_Explore_IN.csv
+296,"Florida - Private, for-profit",2009-10,,,,87099,0.78,8505,17897,0.62,CollegeInSight_Explore_IN.csv
+297,"Florida - Private, nonprofit",2016-17,0.59,31306,18470,,,,27899,,CollegeInSight_Explore_IN.csv
+298,"Florida - Private, nonprofit",2015-16,0.57,30099,17157,38389,0.8,7483,27343,0.52,CollegeInSight_Explore_IN.csv
+299,"Florida - Private, nonprofit",2014-15,0.6,29718,17852,14238,0.66,7783,27207,0.53,CollegeInSight_Explore_IN.csv
+300,"Florida - Private, nonprofit",2013-14,0.61,30538,18671,13458,0.67,8197,26532,0.54,CollegeInSight_Explore_IN.csv
+301,"Florida - Private, nonprofit",2012-13,0.63,30044,18860,13547,0.67,8229,25436,0.55,CollegeInSight_Explore_IN.csv
+302,"Florida - Private, nonprofit",2011-12,0.61,29990,18277,13252,0.66,8160,24664,0.55,CollegeInSight_Explore_IN.csv
+303,"Florida - Private, nonprofit",2010-11,0.64,30501,19382,11311,0.65,7542,24667,0.55,CollegeInSight_Explore_IN.csv
+304,"Florida - Private, nonprofit",2009-10,0.65,26266,17176,11445,0.65,7833,22870,0.53,CollegeInSight_Explore_IN.csv
+305,Florida - Public,2016-17,0.48,21626,10381,,,,4360,,CollegeInSight_Explore_IN.csv
+306,Florida - Public,2015-16,0.51,22879,11668,25491,0.24,5638,4327,0.5,CollegeInSight_Explore_IN.csv
+307,Florida - Public,2014-15,0.51,21639,11099,28963,0.28,5486,4342,0.5,CollegeInSight_Explore_IN.csv
+308,Florida - Public,2013-14,0.52,22947,11979,29261,0.28,5204,4269,0.51,CollegeInSight_Explore_IN.csv
+309,Florida - Public,2012-13,0.51,22067,11196,28434,0.28,5470,4218,0.49,CollegeInSight_Explore_IN.csv
+310,Florida - Public,2011-12,0.49,20554,9979,28645,0.26,5411,3879,0.5,CollegeInSight_Explore_IN.csv
+311,Florida - Public,2010-11,0.47,20221,9518,28182,0.26,4986,3550,0.49,CollegeInSight_Explore_IN.csv
+312,Florida - Public,2009-10,0.45,19114,8627,24807,0.23,4741,3172,0.48,CollegeInSight_Explore_IN.csv
+313,Florida - Total,2016-17,0.5,24041,12021,,,,9923,,CollegeInSight_Explore_IN.csv
+314,Florida - Total,2015-16,0.52,24461,12720,84269,0.46,7060,9489,0.52,CollegeInSight_Explore_IN.csv
+315,Florida - Total,2014-15,0.53,23490,12466,74313,0.41,6896,9355,0.52,CollegeInSight_Explore_IN.csv
+316,Florida - Total,2013-14,0.54,24947,13544,76979,0.42,7001,9211,0.53,CollegeInSight_Explore_IN.csv
+317,Florida - Total,2012-13,0.53,24018,12786,93951,0.49,6750,9152,0.53,CollegeInSight_Explore_IN.csv
+318,Florida - Total,2011-12,0.51,22873,11689,101712,0.5,6680,8549,0.55,CollegeInSight_Explore_IN.csv
+319,Florida - Total,2010-11,0.51,23054,11686,98884,0.49,7114,8156,0.54,CollegeInSight_Explore_IN.csv
+320,Florida - Total,2009-10,0.5,21184,10503,123351,0.52,7686,8065,0.53,CollegeInSight_Explore_IN.csv
+321,"Hawaii - Private, for-profit",2016-17,,,,,,,15694,,CollegeInSight_Explore_IN.csv
+322,"Hawaii - Private, for-profit",2015-16,,,,111,0.61,7048,14538,0.65,CollegeInSight_Explore_IN.csv
+323,"Hawaii - Private, for-profit",2014-15,,,,125,0.5,7716,13234,0.6,CollegeInSight_Explore_IN.csv
+324,"Hawaii - Private, for-profit",2013-14,,,,315,0.62,7735,13438,0.58,CollegeInSight_Explore_IN.csv
+325,"Hawaii - Private, for-profit",2012-13,,,,415,0.71,7468,12862,0.57,CollegeInSight_Explore_IN.csv
+326,"Hawaii - Private, for-profit",2011-12,,,,436,0.59,7393,12897,0.61,CollegeInSight_Explore_IN.csv
+327,"Hawaii - Private, for-profit",2010-11,,,,657,0.64,7218,14205,0.6,CollegeInSight_Explore_IN.csv
+328,"Hawaii - Private, for-profit",2009-10,,,,843,0.64,6924,13402,0.53,CollegeInSight_Explore_IN.csv
+329,"Hawaii - Private, nonprofit",2016-17,0.61,27013,16478,,,,16459,,CollegeInSight_Explore_IN.csv
+330,"Hawaii - Private, nonprofit",2015-16,0.59,29669,17505,612,0.47,6318,14988,0.51,CollegeInSight_Explore_IN.csv
+331,"Hawaii - Private, nonprofit",2014-15,,,,673,0.47,6878,14697,0.5,CollegeInSight_Explore_IN.csv
+332,"Hawaii - Private, nonprofit",2013-14,,,,784,0.54,5951,14323,0.47,CollegeInSight_Explore_IN.csv
+333,"Hawaii - Private, nonprofit",2012-13,,,,674,0.48,7261,13249,0.41,CollegeInSight_Explore_IN.csv
+334,"Hawaii - Private, nonprofit",2011-12,0.5,30893,15447,823,0.55,6720,13035,0.42,CollegeInSight_Explore_IN.csv
+335,"Hawaii - Private, nonprofit",2010-11,,,,682,0.46,5925,11793,0.41,CollegeInSight_Explore_IN.csv
+336,"Hawaii - Private, nonprofit",2009-10,,,,453,0.38,6752,12511,0.43,CollegeInSight_Explore_IN.csv
+337,Hawaii - Public,2016-17,0.45,24233,10905,,,,6612,,CollegeInSight_Explore_IN.csv
+338,Hawaii - Public,2015-16,0.47,24665,11593,1225,0.22,5961,6115,0.31,CollegeInSight_Explore_IN.csv
+339,Hawaii - Public,2014-15,0.48,22820,10954,1440,0.25,5660,5661,0.31,CollegeInSight_Explore_IN.csv
+340,Hawaii - Public,2013-14,0.45,24277,10925,1503,0.25,5813,5388,0.31,CollegeInSight_Explore_IN.csv
+341,Hawaii - Public,2012-13,0.46,21979,10179,1483,0.24,5749,5007,0.29,CollegeInSight_Explore_IN.csv
+342,Hawaii - Public,2011-12,0.44,19526,8539,1542,0.26,5619,4895,0.28,CollegeInSight_Explore_IN.csv
+343,Hawaii - Public,2010-11,0.4,17034,6892,1419,0.24,5281,4201,0.3,CollegeInSight_Explore_IN.csv
+344,Hawaii - Public,2009-10,0.38,15550,5868,1334,0.22,5062,3805,0.3,CollegeInSight_Explore_IN.csv
+345,Hawaii - Total,2016-17,0.49,25125,12311,,,,8470,,CollegeInSight_Explore_IN.csv
+346,Hawaii - Total,2015-16,0.5,26092,13046,1948,0.27,6135,7803,0.37,CollegeInSight_Explore_IN.csv
+347,Hawaii - Total,2014-15,0.5,23456,11661,2238,0.3,6141,7579,0.37,CollegeInSight_Explore_IN.csv
+348,Hawaii - Total,2013-14,0.47,24554,11512,2602,0.32,6087,7272,0.36,CollegeInSight_Explore_IN.csv
+349,Hawaii - Total,2012-13,0.47,22785,10749,2572,0.32,6422,6737,0.34,CollegeInSight_Explore_IN.csv
+350,Hawaii - Total,2011-12,,,,2801,0.34,6218,6826,0.33,CollegeInSight_Explore_IN.csv
+351,Hawaii - Total,2010-11,,,,2758,0.32,5902,6154,0.36,CollegeInSight_Explore_IN.csv
+352,Hawaii - Total,2009-10,0.38,15550,5868,2630,0.31,5950,5727,0.35,CollegeInSight_Explore_IN.csv
+353,"Idaho - Private, for-profit",2016-17,,,,,,,13250,,CollegeInSight_Explore_IN.csv
+354,"Idaho - Private, for-profit",2015-16,,,,779,0.79,7302,14820,0.58,CollegeInSight_Explore_IN.csv
+355,"Idaho - Private, for-profit",2014-15,,,,960,0.77,7188,13787,0.54,CollegeInSight_Explore_IN.csv
+356,"Idaho - Private, for-profit",2013-14,,,,1064,0.77,7047,13661,0.55,CollegeInSight_Explore_IN.csv
+357,"Idaho - Private, for-profit",2012-13,,,,1452,0.76,7869,15684,0.6,CollegeInSight_Explore_IN.csv
+358,"Idaho - Private, for-profit",2011-12,,,,1553,0.76,6186,13769,0.66,CollegeInSight_Explore_IN.csv
+359,"Idaho - Private, for-profit",2010-11,,,,1848,0.74,8085,11810,0.65,CollegeInSight_Explore_IN.csv
+360,"Idaho - Private, for-profit",2009-10,,,,2030,0.73,7861,12263,0.69,CollegeInSight_Explore_IN.csv
+361,"Idaho - Private, nonprofit",2016-17,,,,,,,6724,,CollegeInSight_Explore_IN.csv
+362,"Idaho - Private, nonprofit",2015-16,,,,1048,0.33,5516,7603,0.53,CollegeInSight_Explore_IN.csv
+363,"Idaho - Private, nonprofit",2014-15,,,,972,0.37,5458,8993,0.57,CollegeInSight_Explore_IN.csv
+364,"Idaho - Private, nonprofit",2013-14,,,,1329,0.43,6713,8398,0.53,CollegeInSight_Explore_IN.csv
+365,"Idaho - Private, nonprofit",2012-13,,,,1034,0.34,5167,7561,0.6,CollegeInSight_Explore_IN.csv
+366,"Idaho - Private, nonprofit",2011-12,,,,1114,0.37,5411,7188,0.6,CollegeInSight_Explore_IN.csv
+367,"Idaho - Private, nonprofit",2010-11,,,,973,0.36,5411,7510,0.6,CollegeInSight_Explore_IN.csv
+368,"Idaho - Private, nonprofit",2009-10,,,,862,0.28,5324,7025,0.63,CollegeInSight_Explore_IN.csv
+369,Idaho - Public,2016-17,0.6,27317,16390,,,,5993,,CollegeInSight_Explore_IN.csv
+370,Idaho - Public,2015-16,0.66,27984,18469,3870,0.51,5798,5916,0.35,CollegeInSight_Explore_IN.csv
+371,Idaho - Public,2014-15,0.66,27363,18032,3777,0.48,5584,5862,0.35,CollegeInSight_Explore_IN.csv
+372,Idaho - Public,2013-14,0.71,25890,18450,4343,0.55,5573,5292,0.33,CollegeInSight_Explore_IN.csv
+373,Idaho - Public,2012-13,0.68,26218,17843,4634,0.54,5859,4988,0.33,CollegeInSight_Explore_IN.csv
+374,Idaho - Public,2011-12,0.65,26624,17211,5064,0.57,5935,4764,0.31,CollegeInSight_Explore_IN.csv
+375,Idaho - Public,2010-11,0.66,24112,16013,5121,0.55,5625,4437,0.33,CollegeInSight_Explore_IN.csv
+376,Idaho - Public,2009-10,0.66,23946,15804,4138,0.51,5547,4134,0.34,CollegeInSight_Explore_IN.csv
+377,Idaho - Total,2016-17,0.61,26675,16271,,,,6245,,CollegeInSight_Explore_IN.csv
+378,Idaho - Total,2015-16,0.66,27130,17906,5697,0.48,5952,6472,0.41,CollegeInSight_Explore_IN.csv
+379,Idaho - Total,2014-15,0.67,27700,18492,5709,0.49,5832,6716,0.42,CollegeInSight_Explore_IN.csv
+380,Idaho - Total,2013-14,0.72,26089,18686,6736,0.55,6031,6234,0.4,CollegeInSight_Explore_IN.csv
+381,Idaho - Total,2012-13,0.68,26463,18055,7120,0.53,6169,6071,0.42,CollegeInSight_Explore_IN.csv
+382,Idaho - Total,2011-12,0.65,26751,17302,7731,0.56,5910,5718,0.43,CollegeInSight_Explore_IN.csv
+383,Idaho - Total,2010-11,0.66,24134,15839,7942,0.55,6171,5328,0.44,CollegeInSight_Explore_IN.csv
+384,Idaho - Total,2009-10,0.66,24178,16068,7030,0.5,6188,5025,0.45,CollegeInSight_Explore_IN.csv
+385,"Indiana - Private, for-profit",2016-17,,,,,,,14349,,CollegeInSight_Explore_IN.csv
+386,"Indiana - Private, for-profit",2015-16,,,,3563,0.8,8122,15352,0.48,CollegeInSight_Explore_IN.csv
+387,"Indiana - Private, for-profit",2014-15,,,,4576,0.82,7971,15404,0.46,CollegeInSight_Explore_IN.csv
+388,"Indiana - Private, for-profit",2013-14,,,,5211,0.82,8518,15226,0.5,CollegeInSight_Explore_IN.csv
+389,"Indiana - Private, for-profit",2012-13,,,,4503,0.8,8483,14771,0.52,CollegeInSight_Explore_IN.csv
+390,"Indiana - Private, for-profit",2011-12,,,,5631,0.86,8313,13882,0.52,CollegeInSight_Explore_IN.csv
+391,"Indiana - Private, for-profit",2010-11,,,,8106,0.87,8584,13535,0.5,CollegeInSight_Explore_IN.csv
+392,"Indiana - Private, for-profit",2009-10,,,,9158,0.8,8821,13426,0.53,CollegeInSight_Explore_IN.csv
+393,"Indiana - Private, nonprofit",2016-17,0.62,33518,20781,,,,33696,,CollegeInSight_Explore_IN.csv
+394,"Indiana - Private, nonprofit",2015-16,0.63,33881,21345,8901,0.61,7538,33376,0.67,CollegeInSight_Explore_IN.csv
+395,"Indiana - Private, nonprofit",2014-15,0.68,31500,21371,9283,0.65,7735,32325,0.67,CollegeInSight_Explore_IN.csv
+396,"Indiana - Private, nonprofit",2013-14,0.67,31834,21291,8884,0.62,7642,31596,0.67,CollegeInSight_Explore_IN.csv
+397,"Indiana - Private, nonprofit",2012-13,0.68,30058,20515,9426,0.66,7666,30579,0.67,CollegeInSight_Explore_IN.csv
+398,"Indiana - Private, nonprofit",2011-12,0.7,28429,19959,9887,0.71,7282,29257,0.68,CollegeInSight_Explore_IN.csv
+399,"Indiana - Private, nonprofit",2010-11,0.7,29623,20680,10412,0.72,7154,28000,0.68,CollegeInSight_Explore_IN.csv
+400,"Indiana - Private, nonprofit",2009-10,0.67,28629,19220,10436,0.71,7091,26870,0.68,CollegeInSight_Explore_IN.csv
+401,Indiana - Public,2016-17,0.55,27761,15268,,,,8427,,CollegeInSight_Explore_IN.csv
+402,Indiana - Public,2015-16,0.57,27637,15753,18290,0.44,6716,8166,0.45,CollegeInSight_Explore_IN.csv
+403,Indiana - Public,2014-15,0.58,27854,16145,19325,0.46,6536,7975,0.43,CollegeInSight_Explore_IN.csv
+404,Indiana - Public,2013-14,0.6,28324,16921,19913,0.46,6551,7658,0.43,CollegeInSight_Explore_IN.csv
+405,Indiana - Public,2012-13,0.6,27878,16843,20554,0.48,6607,7329,0.41,CollegeInSight_Explore_IN.csv
+406,Indiana - Public,2011-12,0.62,27626,17059,22652,0.51,6273,6898,0.41,CollegeInSight_Explore_IN.csv
+407,Indiana - Public,2010-11,0.6,26488,16015,25580,0.53,6244,6410,0.41,CollegeInSight_Explore_IN.csv
+408,Indiana - Public,2009-10,0.59,25762,15144,23619,0.5,6208,6209,0.42,CollegeInSight_Explore_IN.csv
+409,Indiana - Total,2016-17,0.57,29561,16850,,,,15357,,CollegeInSight_Explore_IN.csv
+410,Indiana - Total,2015-16,0.59,29562,17442,30754,0.51,7117,14732,0.5,CollegeInSight_Explore_IN.csv
+411,Indiana - Total,2014-15,0.61,29022,17646,33184,0.54,7069,14240,0.49,CollegeInSight_Explore_IN.csv
+412,Indiana - Total,2013-14,0.61,29222,17948,34008,0.54,7138,13788,0.49,CollegeInSight_Explore_IN.csv
+413,Indiana - Total,2012-13,0.62,28466,17747,34483,0.55,7141,13197,0.47,CollegeInSight_Explore_IN.csv
+414,Indiana - Total,2011-12,0.64,27886,17919,38170,0.59,6836,12220,0.48,CollegeInSight_Explore_IN.csv
+415,Indiana - Total,2010-11,0.63,27500,17379,44098,0.61,6889,11517,0.48,CollegeInSight_Explore_IN.csv
+416,Indiana - Total,2009-10,0.61,26722,16391,43213,0.59,6975,11211,0.5,CollegeInSight_Explore_IN.csv
+417,"Iowa - Private, for-profit",2016-17,,,,,,,17827,,CollegeInSight_Explore_IN.csv
+418,"Iowa - Private, for-profit",2015-16,,,,948,0.81,7624,17199,0.53,CollegeInSight_Explore_IN.csv
+419,"Iowa - Private, for-profit",2014-15,,,,814,0.74,7664,15623,0.5,CollegeInSight_Explore_IN.csv
+420,"Iowa - Private, for-profit",2013-14,,,,1765,0.79,7624,12208,0.38,CollegeInSight_Explore_IN.csv
+421,"Iowa - Private, for-profit",2012-13,,,,3291,0.81,7267,11586,0.46,CollegeInSight_Explore_IN.csv
+422,"Iowa - Private, for-profit",2011-12,,,,3956,0.84,7440,11291,0.53,CollegeInSight_Explore_IN.csv
+423,"Iowa - Private, for-profit",2010-11,,,,4361,0.82,7763,11237,0.57,CollegeInSight_Explore_IN.csv
+424,"Iowa - Private, for-profit",2009-10,,,,5334,0.8,7400,15576,0.56,CollegeInSight_Explore_IN.csv
+425,"Iowa - Private, nonprofit",2016-17,0.75,33610,25208,,,,32856,,CollegeInSight_Explore_IN.csv
+426,"Iowa - Private, nonprofit",2015-16,0.75,32724,24543,5827,0.72,8390,31954,0.63,CollegeInSight_Explore_IN.csv
+427,"Iowa - Private, nonprofit",2014-15,0.73,32384,23497,6240,0.73,8218,30527,0.63,CollegeInSight_Explore_IN.csv
+428,"Iowa - Private, nonprofit",2013-14,0.76,32295,24416,6272,0.74,8082,29425,0.64,CollegeInSight_Explore_IN.csv
+429,"Iowa - Private, nonprofit",2012-13,0.77,31487,24299,6329,0.75,7870,28455,0.62,CollegeInSight_Explore_IN.csv
+430,"Iowa - Private, nonprofit",2011-12,0.81,30997,25122,6686,0.78,7650,27115,0.64,CollegeInSight_Explore_IN.csv
+431,"Iowa - Private, nonprofit",2010-11,0.82,29547,24294,6678,0.78,7163,25827,0.62,CollegeInSight_Explore_IN.csv
+432,"Iowa - Private, nonprofit",2009-10,0.83,31217,25756,6666,0.77,7984,24599,0.62,CollegeInSight_Explore_IN.csv
+433,Iowa - Public,2016-17,0.57,27312,15568,,,,6709,,CollegeInSight_Explore_IN.csv
+434,Iowa - Public,2015-16,0.59,27575,16269,12823,0.52,5868,6267,0.49,CollegeInSight_Explore_IN.csv
+435,Iowa - Public,2014-15,0.61,27061,16379,12994,0.54,5746,6121,0.46,CollegeInSight_Explore_IN.csv
+436,Iowa - Public,2013-14,0.62,27523,17111,13616,0.55,5699,6026,0.43,CollegeInSight_Explore_IN.csv
+437,Iowa - Public,2012-13,0.64,27695,17826,14953,0.59,5634,5743,0.42,CollegeInSight_Explore_IN.csv
+438,Iowa - Public,2011-12,0.64,28073,17905,15480,0.59,5546,5519,0.45,CollegeInSight_Explore_IN.csv
+439,Iowa - Public,2010-11,0.65,27891,18056,15919,0.59,5467,5162,0.47,CollegeInSight_Explore_IN.csv
+440,Iowa - Public,2009-10,0.64,28108,18125,15588,0.59,5229,4837,0.48,CollegeInSight_Explore_IN.csv
+441,Iowa - Total,2016-17,0.63,29859,18811,,,,13071,,CollegeInSight_Explore_IN.csv
+442,Iowa - Total,2015-16,0.65,29801,19371,19598,0.58,6703,12637,0.53,CollegeInSight_Explore_IN.csv
+443,Iowa - Total,2014-15,0.66,29547,19386,20048,0.6,6593,12536,0.5,CollegeInSight_Explore_IN.csv
+444,Iowa - Total,2013-14,0.68,29732,20141,21653,0.61,6546,12001,0.47,CollegeInSight_Explore_IN.csv
+445,Iowa - Total,2012-13,0.69,29370,20401,24573,0.65,6428,11401,0.47,CollegeInSight_Explore_IN.csv
+446,Iowa - Total,2011-12,0.71,29456,20893,26122,0.66,6371,10803,0.5,CollegeInSight_Explore_IN.csv
+447,Iowa - Total,2010-11,0.72,28658,20580,26958,0.66,6258,10252,0.52,CollegeInSight_Explore_IN.csv
+448,Iowa - Total,2009-10,0.72,29635,21406,27588,0.66,6314,10314,0.53,CollegeInSight_Explore_IN.csv
+449,"Kentucky - Private, for-profit",2016-17,,,,,,,17731,,CollegeInSight_Explore_MN.csv
+450,"Kentucky - Private, for-profit",2015-16,,,,1508,0.75,7734,17017,0.45,CollegeInSight_Explore_MN.csv
+451,"Kentucky - Private, for-profit",2014-15,,,,1994,0.76,8042,16006,0.48,CollegeInSight_Explore_MN.csv
+452,"Kentucky - Private, for-profit",2013-14,,,,2116,0.81,8216,15154,0.44,CollegeInSight_Explore_MN.csv
+453,"Kentucky - Private, for-profit",2012-13,,,,2153,0.79,7719,14796,0.45,CollegeInSight_Explore_MN.csv
+454,"Kentucky - Private, for-profit",2011-12,,,,2718,0.82,8117,14652,0.44,CollegeInSight_Explore_MN.csv
+455,"Kentucky - Private, for-profit",2010-11,,,,3772,0.8,8029,14100,0.51,CollegeInSight_Explore_MN.csv
+456,"Kentucky - Private, for-profit",2009-10,,,,4980,0.8,9802,13152,0.53,CollegeInSight_Explore_MN.csv
+457,"Kentucky - Private, nonprofit",2016-17,0.62,26889,16671,,,,27466,,CollegeInSight_Explore_MN.csv
+458,"Kentucky - Private, nonprofit",2015-16,0.65,24629,16009,3723,0.63,6554,26353,0.5,CollegeInSight_Explore_MN.csv
+459,"Kentucky - Private, nonprofit",2014-15,0.71,25613,18241,3965,0.65,6353,25108,0.49,CollegeInSight_Explore_MN.csv
+460,"Kentucky - Private, nonprofit",2013-14,0.69,24139,16607,4123,0.67,6521,24079,0.5,CollegeInSight_Explore_MN.csv
+461,"Kentucky - Private, nonprofit",2012-13,0.69,23267,16159,4406,0.71,6352,23060,0.5,CollegeInSight_Explore_MN.csv
+462,"Kentucky - Private, nonprofit",2011-12,0.69,22421,15486,4389,0.7,5892,20705,0.51,CollegeInSight_Explore_MN.csv
+463,"Kentucky - Private, nonprofit",2010-11,0.73,22880,16718,4457,0.7,5767,19762,0.5,CollegeInSight_Explore_MN.csv
+464,"Kentucky - Private, nonprofit",2009-10,0.75,19754,14724,3873,0.64,5889,18997,0.52,CollegeInSight_Explore_MN.csv
+465,Kentucky - Public,2016-17,0.64,28697,18366,,,,8322,,CollegeInSight_Explore_MN.csv
+466,Kentucky - Public,2015-16,0.63,29619,18660,12189,0.45,6242,7835,0.41,CollegeInSight_Explore_MN.csv
+467,Kentucky - Public,2014-15,0.63,27689,17377,13184,0.48,6222,7533,0.4,CollegeInSight_Explore_MN.csv
+468,Kentucky - Public,2013-14,0.63,26486,16700,13613,0.5,6097,7098,0.39,CollegeInSight_Explore_MN.csv
+469,Kentucky - Public,2012-13,0.57,25036,14380,14376,0.51,6073,6720,0.38,CollegeInSight_Explore_MN.csv
+470,Kentucky - Public,2011-12,0.61,24196,14695,15180,0.56,5546,6354,0.38,CollegeInSight_Explore_MN.csv
+471,Kentucky - Public,2010-11,0.57,22119,12506,14050,0.5,5610,5962,0.39,CollegeInSight_Explore_MN.csv
+472,Kentucky - Public,2009-10,0.54,19255,10414,13401,0.47,5686,5639,0.38,CollegeInSight_Explore_MN.csv
+473,Kentucky - Total,2016-17,0.64,28447,18206,,,,11942,,CollegeInSight_Explore_MN.csv
+474,Kentucky - Total,2015-16,0.63,28910,18213,17420,0.5,6438,11313,0.43,CollegeInSight_Explore_MN.csv
+475,Kentucky - Total,2014-15,0.64,27225,17552,19143,0.53,6439,10798,0.42,CollegeInSight_Explore_MN.csv
+476,Kentucky - Total,2013-14,0.64,25939,16680,19852,0.55,6411,10345,0.41,CollegeInSight_Explore_MN.csv
+477,Kentucky - Total,2012-13,0.59,24693,14676,20935,0.56,6301,9822,0.41,CollegeInSight_Explore_MN.csv
+478,Kentucky - Total,2011-12,0.62,23785,14861,22287,0.61,5928,9327,0.41,CollegeInSight_Explore_MN.csv
+479,Kentucky - Total,2010-11,0.6,22287,13262,22279,0.57,6051,8876,0.42,CollegeInSight_Explore_MN.csv
+480,Kentucky - Total,2009-10,0.58,19374,11218,22254,0.55,6643,8366,0.42,CollegeInSight_Explore_MN.csv
+481,"Louisiana - Private, for-profit",2016-17,,,,,,,11417,,CollegeInSight_Explore_MN.csv
+482,"Louisiana - Private, for-profit",2015-16,,,,7133,0.76,6021,12805,0.61,CollegeInSight_Explore_MN.csv
+483,"Louisiana - Private, for-profit",2014-15,,,,7347,0.78,5919,12422,0.6,CollegeInSight_Explore_MN.csv
+484,"Louisiana - Private, for-profit",2013-14,,,,7393,0.8,6713,14155,0.65,CollegeInSight_Explore_MN.csv
+485,"Louisiana - Private, for-profit",2012-13,,,,6747,0.73,6419,13450,0.67,CollegeInSight_Explore_MN.csv
+486,"Louisiana - Private, for-profit",2011-12,,,,6728,0.71,6312,13566,0.64,CollegeInSight_Explore_MN.csv
+487,"Louisiana - Private, for-profit",2010-11,,,,7977,0.71,6325,13850,0.61,CollegeInSight_Explore_MN.csv
+488,"Louisiana - Private, for-profit",2009-10,,,,8169,0.74,6251,13393,0.61,CollegeInSight_Explore_MN.csv
+489,"Louisiana - Private, nonprofit",2016-17,0.47,31849,14969,,,,35477,,CollegeInSight_Explore_MN.csv
+490,"Louisiana - Private, nonprofit",2015-16,0.56,29951,16772,2183,0.52,7867,34757,0.59,CollegeInSight_Explore_MN.csv
+491,"Louisiana - Private, nonprofit",2014-15,0.56,28794,16143,2535,0.61,7743,33043,0.6,CollegeInSight_Explore_MN.csv
+492,"Louisiana - Private, nonprofit",2013-14,0.54,28605,15490,2518,0.6,7745,32160,0.62,CollegeInSight_Explore_MN.csv
+493,"Louisiana - Private, nonprofit",2012-13,0.59,27775,16400,2629,0.58,7361,30707,0.6,CollegeInSight_Explore_MN.csv
+494,"Louisiana - Private, nonprofit",2011-12,0.55,28486,15550,2925,0.6,7368,28628,0.61,CollegeInSight_Explore_MN.csv
+495,"Louisiana - Private, nonprofit",2010-11,0.58,32107,18713,2596,0.61,6780,28560,0.42,CollegeInSight_Explore_MN.csv
+496,"Louisiana - Private, nonprofit",2009-10,0.58,29971,17387,2350,0.56,6427,27038,0.53,CollegeInSight_Explore_MN.csv
+497,Louisiana - Public,2016-17,0.49,25970,12725,,,,7500,,CollegeInSight_Explore_MN.csv
+498,Louisiana - Public,2015-16,0.48,25948,12455,13893,0.45,5576,6936,0.39,CollegeInSight_Explore_MN.csv
+499,Louisiana - Public,2014-15,0.5,26156,13017,12256,0.4,5595,6146,0.38,CollegeInSight_Explore_MN.csv
+500,Louisiana - Public,2013-14,0.44,20844,9210,12556,0.41,5794,5514,0.36,CollegeInSight_Explore_MN.csv
+501,Louisiana - Public,2012-13,0.45,21640,9719,12338,0.41,5641,4860,0.36,CollegeInSight_Explore_MN.csv
+502,Louisiana - Public,2011-12,0.46,21112,9671,12215,0.39,5251,4302,0.36,CollegeInSight_Explore_MN.csv
+503,Louisiana - Public,2010-11,0.42,19946,8406,11321,0.36,5091,3881,0.36,CollegeInSight_Explore_MN.csv
+504,Louisiana - Public,2009-10,0.46,23184,10687,11172,0.36,4889,3482,0.33,CollegeInSight_Explore_MN.csv
+505,Louisiana - Total,2016-17,0.48,27210,13061,,,,11073,,CollegeInSight_Explore_MN.csv
+506,Louisiana - Total,2015-16,0.5,27138,13569,23209,0.52,5928,10282,0.45,CollegeInSight_Explore_MN.csv
+507,Louisiana - Total,2014-15,0.51,26865,13785,22138,0.51,5948,9432,0.45,CollegeInSight_Explore_MN.csv
+508,Louisiana - Total,2013-14,0.47,23025,10729,22467,0.51,6315,8922,0.45,CollegeInSight_Explore_MN.csv
+509,Louisiana - Total,2012-13,0.48,23358,11243,21714,0.49,6091,8402,0.45,CollegeInSight_Explore_MN.csv
+510,Louisiana - Total,2011-12,0.48,22789,10835,21868,0.48,5861,7843,0.44,CollegeInSight_Explore_MN.csv
+511,Louisiana - Total,2010-11,0.45,22697,10204,21894,0.47,5741,7249,0.42,CollegeInSight_Explore_MN.csv
+512,Louisiana - Total,2009-10,0.48,24548,11803,21691,0.47,5568,6710,0.4,CollegeInSight_Explore_MN.csv
+513,"Maine - Private, for-profit",2016-17,,,,,,,11601,,CollegeInSight_Explore_MN.csv
+514,"Maine - Private, for-profit",2015-16,,,,542,0.62,6241,11250,0.65,CollegeInSight_Explore_MN.csv
+515,"Maine - Private, for-profit",2014-15,,,,664,0.63,6140,10742,0.56,CollegeInSight_Explore_MN.csv
+516,"Maine - Private, for-profit",2013-14,,,,1103,0.74,7193,10720,0.47,CollegeInSight_Explore_MN.csv
+517,"Maine - Private, for-profit",2012-13,,,,1153,0.73,8053,10755,0.48,CollegeInSight_Explore_MN.csv
+518,"Maine - Private, for-profit",2011-12,,,,1344,0.77,6938,24204,0.59,CollegeInSight_Explore_MN.csv
+519,"Maine - Private, for-profit",2010-11,,,,1372,0.73,6162,12254,0.55,CollegeInSight_Explore_MN.csv
+520,"Maine - Private, for-profit",2009-10,,,,1592,0.77,8002,12596,0.6,CollegeInSight_Explore_MN.csv
+521,"Maine - Private, nonprofit",2016-17,0.39,26582,10367,,,,37180,,CollegeInSight_Explore_MN.csv
+522,"Maine - Private, nonprofit",2015-16,0.36,26170,9421,2068,0.57,9301,36615,0.7,CollegeInSight_Explore_MN.csv
+523,"Maine - Private, nonprofit",2014-15,0.42,24608,10254,1980,0.57,8838,35423,0.71,CollegeInSight_Explore_MN.csv
+524,"Maine - Private, nonprofit",2013-14,0.52,27811,14499,2013,0.58,8942,34265,0.69,CollegeInSight_Explore_MN.csv
+525,"Maine - Private, nonprofit",2012-13,0.46,26281,12015,1834,0.54,9306,33721,0.68,CollegeInSight_Explore_MN.csv
+526,"Maine - Private, nonprofit",2011-12,0.5,28167,14029,2041,0.59,8347,32022,0.68,CollegeInSight_Explore_MN.csv
+527,"Maine - Private, nonprofit",2010-11,0.52,23630,12212,2174,0.6,8053,30416,0.69,CollegeInSight_Explore_MN.csv
+528,"Maine - Private, nonprofit",2009-10,0.5,22251,11168,2050,0.58,8529,25008,0.68,CollegeInSight_Explore_MN.csv
+529,Maine - Public,2016-17,0.76,34092,25910,,,,7509,,CollegeInSight_Explore_MN.csv
+530,Maine - Public,2015-16,0.76,33970,25817,3975,0.63,7037,7395,0.38,CollegeInSight_Explore_MN.csv
+531,Maine - Public,2014-15,0.79,31595,24996,4064,0.65,7063,7496,0.38,CollegeInSight_Explore_MN.csv
+532,Maine - Public,2013-14,0.8,32345,25788,4431,0.66,6932,7495,0.38,CollegeInSight_Explore_MN.csv
+533,Maine - Public,2012-13,0.77,31449,24249,4353,0.66,7083,7232,0.37,CollegeInSight_Explore_MN.csv
+534,Maine - Public,2011-12,0.78,29756,23205,4460,0.67,6707,7297,0.39,CollegeInSight_Explore_MN.csv
+535,Maine - Public,2010-11,0.78,26670,20753,4559,0.67,7253,6864,0.4,CollegeInSight_Explore_MN.csv
+536,Maine - Public,2009-10,0.7,28289,19667,4419,0.65,7327,6612,0.39,CollegeInSight_Explore_MN.csv
+537,Maine - Total,2016-17,0.56,31364,17564,,,,18360,,CollegeInSight_Explore_MN.csv
+538,Maine - Total,2015-16,0.55,31295,17212,6585,0.61,7682,18009,0.51,CollegeInSight_Explore_MN.csv
+539,Maine - Total,2014-15,0.63,29644,18747,6708,0.62,7496,17428,0.5,CollegeInSight_Explore_MN.csv
+540,Maine - Total,2013-14,0.68,30908,21100,7547,0.65,7506,16798,0.48,CollegeInSight_Explore_MN.csv
+541,Maine - Total,2012-13,0.64,29934,19214,7340,0.63,7791,16160,0.48,CollegeInSight_Explore_MN.csv
+542,Maine - Total,2011-12,0.67,29290,19588,7845,0.66,7174,15709,0.5,CollegeInSight_Explore_MN.csv
+543,Maine - Total,2010-11,0.71,26046,18363,8105,0.66,7283,15003,0.51,CollegeInSight_Explore_MN.csv
+544,Maine - Total,2009-10,0.63,26538,16596,8061,0.65,7766,11725,0.51,CollegeInSight_Explore_MN.csv
+545,"Michigan - Private, for-profit",2016-17,,,,,,,18176,,CollegeInSight_Explore_MN.csv
+546,"Michigan - Private, for-profit",2015-16,,,,3717,0.72,7611,17868,0.6,CollegeInSight_Explore_MN.csv
+547,"Michigan - Private, for-profit",2014-15,,,,5172,0.74,7425,16832,0.56,CollegeInSight_Explore_MN.csv
+548,"Michigan - Private, for-profit",2013-14,,,,6255,0.74,8309,16782,0.59,CollegeInSight_Explore_MN.csv
+549,"Michigan - Private, for-profit",2012-13,,,,6404,0.73,8465,15566,0.62,CollegeInSight_Explore_MN.csv
+550,"Michigan - Private, for-profit",2011-12,,,,7661,0.83,8302,14730,0.63,CollegeInSight_Explore_MN.csv
+551,"Michigan - Private, for-profit",2010-11,,,,11406,0.81,9064,14563,0.65,CollegeInSight_Explore_MN.csv
+552,"Michigan - Private, for-profit",2009-10,,,,15084,0.82,8550,15435,0.61,CollegeInSight_Explore_MN.csv
+553,"Michigan - Private, nonprofit",2016-17,0.7,33257,23280,,,,27086,,CollegeInSight_Explore_MN.csv
+554,"Michigan - Private, nonprofit",2015-16,0.67,32827,21994,7307,0.65,7859,24810,0.43,CollegeInSight_Explore_MN.csv
+555,"Michigan - Private, nonprofit",2014-15,0.71,31935,22740,7384,0.63,7708,23470,0.4,CollegeInSight_Explore_MN.csv
+556,"Michigan - Private, nonprofit",2013-14,0.73,31534,23095,8221,0.64,7483,21289,0.42,CollegeInSight_Explore_MN.csv
+557,"Michigan - Private, nonprofit",2012-13,0.72,32462,23287,8688,0.64,7349,20152,0.42,CollegeInSight_Explore_MN.csv
+558,"Michigan - Private, nonprofit",2011-12,0.73,32030,23235,8746,0.64,7015,18713,0.42,CollegeInSight_Explore_MN.csv
+559,"Michigan - Private, nonprofit",2010-11,0.74,30310,22363,9319,0.65,6756,17469,0.42,CollegeInSight_Explore_MN.csv
+560,"Michigan - Private, nonprofit",2009-10,0.73,29735,21640,10131,0.66,6725,16207,0.42,CollegeInSight_Explore_MN.csv
+561,Michigan - Public,2016-17,0.56,30910,17310,,,,9926,,CollegeInSight_Explore_MN.csv
+562,Michigan - Public,2015-16,0.63,30423,19166,27220,0.47,6114,9384,0.46,CollegeInSight_Explore_MN.csv
+563,Michigan - Public,2014-15,0.62,29747,18519,28578,0.48,6265,9007,0.45,CollegeInSight_Explore_MN.csv
+564,Michigan - Public,2013-14,0.61,29142,17784,29087,0.49,6158,8702,0.44,CollegeInSight_Explore_MN.csv
+565,Michigan - Public,2012-13,0.61,29092,17841,32052,0.53,6077,8277,0.43,CollegeInSight_Explore_MN.csv
+566,Michigan - Public,2011-12,0.6,28147,16850,33655,0.55,6261,7789,0.42,CollegeInSight_Explore_MN.csv
+567,Michigan - Public,2010-11,0.6,26937,16229,32861,0.52,6200,7226,0.44,CollegeInSight_Explore_MN.csv
+568,Michigan - Public,2009-10,0.59,24854,14600,30849,0.48,6087,6856,0.45,CollegeInSight_Explore_MN.csv
+569,Michigan - Total,2016-17,0.58,31289,18148,,,,12662,,CollegeInSight_Explore_MN.csv
+570,Michigan - Total,2015-16,0.63,30852,19437,38244,0.51,6593,11998,0.47,CollegeInSight_Explore_MN.csv
+571,Michigan - Total,2014-15,0.63,30045,19032,41134,0.53,6670,11389,0.45,CollegeInSight_Explore_MN.csv
+572,Michigan - Total,2013-14,0.62,29450,18367,43563,0.54,6717,11061,0.46,CollegeInSight_Explore_MN.csv
+573,Michigan - Total,2012-13,0.63,29586,18538,47144,0.57,6636,10499,0.45,CollegeInSight_Explore_MN.csv
+574,Michigan - Total,2011-12,0.62,28742,17680,50062,0.59,6705,9847,0.46,CollegeInSight_Explore_MN.csv
+575,Michigan - Total,2010-11,0.62,27436,16991,53586,0.58,6907,9187,0.47,CollegeInSight_Explore_MN.csv
+576,Michigan - Total,2009-10,0.6,25575,15464,56064,0.57,6865,8797,0.47,CollegeInSight_Explore_MN.csv
+577,"Minnesota - Private, for-profit",2016-17,,,,,,,14898,,CollegeInSight_Explore_MN.csv
+578,"Minnesota - Private, for-profit",2015-16,,,,761,0.75,9532,16615,0.47,CollegeInSight_Explore_MN.csv
+579,"Minnesota - Private, for-profit",2014-15,,,,1671,0.79,9044,15726,0.46,CollegeInSight_Explore_MN.csv
+580,"Minnesota - Private, for-profit",2013-14,,,,1976,0.83,8896,15574,0.57,CollegeInSight_Explore_MN.csv
+581,"Minnesota - Private, for-profit",2012-13,,,,2412,0.83,9401,16045,0.55,CollegeInSight_Explore_MN.csv
+582,"Minnesota - Private, for-profit",2011-12,,,,2768,0.8,9625,16460,0.57,CollegeInSight_Explore_MN.csv
+583,"Minnesota - Private, for-profit",2010-11,,,,3514,0.81,10326,16451,0.56,CollegeInSight_Explore_MN.csv
+584,"Minnesota - Private, for-profit",2009-10,,,,5095,0.83,9720,17408,0.59,CollegeInSight_Explore_MN.csv
+585,"Minnesota - Private, nonprofit",2016-17,0.69,35678,24618,,,,37412,,CollegeInSight_Explore_MN.csv
+586,"Minnesota - Private, nonprofit",2015-16,0.7,34937,24456,6500,0.64,8875,36374,0.72,CollegeInSight_Explore_MN.csv
+587,"Minnesota - Private, nonprofit",2014-15,0.72,35832,25913,6613,0.65,8687,35363,0.72,CollegeInSight_Explore_MN.csv
+588,"Minnesota - Private, nonprofit",2013-14,0.73,34665,25162,6825,0.64,8585,34050,0.71,CollegeInSight_Explore_MN.csv
+589,"Minnesota - Private, nonprofit",2012-13,0.72,33305,24022,6967,0.67,8340,32952,0.71,CollegeInSight_Explore_MN.csv
+590,"Minnesota - Private, nonprofit",2011-12,0.73,34221,24857,7025,0.67,8314,31426,0.7,CollegeInSight_Explore_MN.csv
+591,"Minnesota - Private, nonprofit",2010-11,0.73,32128,23610,7316,0.68,7913,29805,0.7,CollegeInSight_Explore_MN.csv
+592,"Minnesota - Private, nonprofit",2009-10,0.74,31400,23334,6885,0.65,7779,28214,0.7,CollegeInSight_Explore_MN.csv
+593,Minnesota - Public,2016-17,0.68,29467,20038,,,,8712,,CollegeInSight_Explore_MN.csv
+594,Minnesota - Public,2015-16,0.67,30091,20161,15213,0.54,7203,8594,0.47,CollegeInSight_Explore_MN.csv
+595,Minnesota - Public,2014-15,0.69,29377,20354,16070,0.57,7000,8423,0.45,CollegeInSight_Explore_MN.csv
+596,Minnesota - Public,2013-14,0.69,29800,20419,16990,0.58,6862,8340,0.44,CollegeInSight_Explore_MN.csv
+597,Minnesota - Public,2012-13,0.69,29657,20566,17807,0.59,6834,8197,0.42,CollegeInSight_Explore_MN.csv
+598,Minnesota - Public,2011-12,0.69,29958,20567,19122,0.62,6886,7869,0.42,CollegeInSight_Explore_MN.csv
+599,Minnesota - Public,2010-11,0.7,28907,20261,20390,0.61,6519,7329,0.42,CollegeInSight_Explore_MN.csv
+600,Minnesota - Public,2009-10,0.7,27613,19256,20566,0.59,6404,6810,0.41,CollegeInSight_Explore_MN.csv
+601,Minnesota - Total,2016-17,0.68,31734,21579,,,,16097,,CollegeInSight_Explore_MN.csv
+602,Minnesota - Total,2015-16,0.68,31915,21702,22474,0.57,7765,15814,0.53,CollegeInSight_Explore_MN.csv
+603,Minnesota - Total,2014-15,0.7,31526,22152,24354,0.6,7598,15400,0.52,CollegeInSight_Explore_MN.csv
+604,Minnesota - Total,2013-14,0.7,31579,22091,25791,0.61,7474,14990,0.52,CollegeInSight_Explore_MN.csv
+605,Minnesota - Total,2012-13,0.7,30894,21708,27186,0.63,7448,14564,0.5,CollegeInSight_Explore_MN.csv
+606,Minnesota - Total,2011-12,0.7,31497,22061,28915,0.64,7495,13783,0.49,CollegeInSight_Explore_MN.csv
+607,Minnesota - Total,2010-11,0.71,30100,21465,31220,0.64,7274,12858,0.49,CollegeInSight_Explore_MN.csv
+608,Minnesota - Total,2009-10,0.71,29058,20752,32546,0.63,7214,12040,0.49,CollegeInSight_Explore_MN.csv
+609,"Mississippi - Private, for-profit",2016-17,,,,,,,14910,,CollegeInSight_Explore_NM.csv
+610,"Mississippi - Private, for-profit",2015-16,,,,1711,0.86,7175,15333,0.67,CollegeInSight_Explore_NM.csv
+611,"Mississippi - Private, for-profit",2014-15,,,,1827,0.84,7027,14982,0.63,CollegeInSight_Explore_NM.csv
+612,"Mississippi - Private, for-profit",2013-14,,,,1660,0.76,8511,14858,0.69,CollegeInSight_Explore_NM.csv
+613,"Mississippi - Private, for-profit",2012-13,,,,1895,0.78,8618,16985,0.62,CollegeInSight_Explore_NM.csv
+614,"Mississippi - Private, for-profit",2011-12,,,,1472,0.67,8076,14284,0.63,CollegeInSight_Explore_NM.csv
+615,"Mississippi - Private, for-profit",2010-11,,,,1319,0.53,6642,15303,0.67,CollegeInSight_Explore_NM.csv
+616,"Mississippi - Private, for-profit",2009-10,,,,1625,0.66,7237,12558,0.61,CollegeInSight_Explore_NM.csv
+617,"Mississippi - Private, nonprofit",2016-17,0.49,28988,14204,,,,17511,,CollegeInSight_Explore_NM.csv
+618,"Mississippi - Private, nonprofit",2015-16,0.59,27496,16223,1122,0.66,5834,17398,0.5,CollegeInSight_Explore_NM.csv
+619,"Mississippi - Private, nonprofit",2014-15,0.65,28328,18501,1140,0.64,6064,16632,0.5,CollegeInSight_Explore_NM.csv
+620,"Mississippi - Private, nonprofit",2013-14,0.59,27887,16533,1047,0.63,5445,15220,0.48,CollegeInSight_Explore_NM.csv
+621,"Mississippi - Private, nonprofit",2012-13,0.61,29691,18223,1051,0.63,5866,14786,0.48,CollegeInSight_Explore_NM.csv
+622,"Mississippi - Private, nonprofit",2011-12,0.68,31254,21117,1010,0.62,5766,14805,0.54,CollegeInSight_Explore_NM.csv
+623,"Mississippi - Private, nonprofit",2010-11,0.56,24211,13525,895,0.56,5399,14138,0.49,CollegeInSight_Explore_NM.csv
+624,"Mississippi - Private, nonprofit",2009-10,,,,1076,0.59,5279,13628,0.49,CollegeInSight_Explore_NM.csv
+625,Mississippi - Public,2016-17,0.58,30561,17725,,,,4845,,CollegeInSight_Explore_NM.csv
+626,Mississippi - Public,2015-16,0.6,29586,17752,9713,0.36,5857,4615,0.38,CollegeInSight_Explore_NM.csv
+627,Mississippi - Public,2014-15,0.62,30150,18659,9883,0.37,5882,4350,0.37,CollegeInSight_Explore_NM.csv
+628,Mississippi - Public,2013-14,0.6,28367,17162,10554,0.37,5752,4091,0.33,CollegeInSight_Explore_NM.csv
+629,Mississippi - Public,2012-13,0.57,27222,15491,10894,0.38,5508,3730,0.32,CollegeInSight_Explore_NM.csv
+630,Mississippi - Public,2011-12,0.55,26552,14595,10845,0.37,5141,3462,0.33,CollegeInSight_Explore_NM.csv
+631,Mississippi - Public,2010-11,0.54,23641,12819,11577,0.38,5319,3176,0.34,CollegeInSight_Explore_NM.csv
+632,Mississippi - Public,2009-10,0.52,22006,11399,10114,0.35,5084,2848,0.33,CollegeInSight_Explore_NM.csv
+633,Mississippi - Total,2016-17,0.58,30439,17654,,,,5691,,CollegeInSight_Explore_NM.csv
+634,Mississippi - Total,2015-16,0.6,29384,17630,12546,0.41,6034,5457,0.41,CollegeInSight_Explore_NM.csv
+635,Mississippi - Total,2014-15,0.62,29942,18641,12850,0.42,6061,5254,0.39,CollegeInSight_Explore_NM.csv
+636,Mississippi - Total,2013-14,0.6,28314,17092,13261,0.41,6073,4908,0.36,CollegeInSight_Explore_NM.csv
+637,Mississippi - Total,2012-13,0.57,27571,15853,13840,0.42,5961,4518,0.34,CollegeInSight_Explore_NM.csv
+638,Mississippi - Total,2011-12,0.57,27322,15491,13327,0.4,5513,4200,0.36,CollegeInSight_Explore_NM.csv
+639,Mississippi - Total,2010-11,0.54,23697,12886,13791,0.4,5450,3920,0.36,CollegeInSight_Explore_NM.csv
+640,Mississippi - Total,2009-10,0.52,22155,11477,12815,0.39,5374,3614,0.35,CollegeInSight_Explore_NM.csv
+641,"Montana - Private, for-profit",2016-17,,,,,,,,,CollegeInSight_Explore_NM.csv
+642,"Montana - Private, for-profit",2015-16,,,,245,0.58,7150,,0.76,CollegeInSight_Explore_NM.csv
+643,"Montana - Private, for-profit",2014-15,,,,310,0.6,5854,,0.61,CollegeInSight_Explore_NM.csv
+644,"Montana - Private, for-profit",2013-14,,,,309,0.59,5978,,0.72,CollegeInSight_Explore_NM.csv
+645,"Montana - Private, for-profit",2012-13,,,,322,0.56,5968,,0.86,CollegeInSight_Explore_NM.csv
+646,"Montana - Private, for-profit",2011-12,,,,290,0.56,5785,,0.84,CollegeInSight_Explore_NM.csv
+647,"Montana - Private, for-profit",2010-11,,,,260,0.5,6543,,0.81,CollegeInSight_Explore_NM.csv
+648,"Montana - Private, for-profit",2009-10,,,,146,0.36,6310,,0.85,CollegeInSight_Explore_NM.csv
+649,"Montana - Private, nonprofit",2016-17,0.69,30434,21000,,,,23707,,CollegeInSight_Explore_NM.csv
+650,"Montana - Private, nonprofit",2015-16,0.71,31585,22425,531,0.54,7152,22695,0.5,CollegeInSight_Explore_NM.csv
+651,"Montana - Private, nonprofit",2014-15,0.7,27997,19612,535,0.57,7253,21158,0.47,CollegeInSight_Explore_NM.csv
+652,"Montana - Private, nonprofit",2013-14,0.74,26280,19351,532,0.59,7959,20265,0.47,CollegeInSight_Explore_NM.csv
+653,"Montana - Private, nonprofit",2012-13,0.75,24708,18567,542,0.57,7089,20264,0.48,CollegeInSight_Explore_NM.csv
+654,"Montana - Private, nonprofit",2011-12,0.76,27895,21334,513,0.55,7016,18988,0.46,CollegeInSight_Explore_NM.csv
+655,"Montana - Private, nonprofit",2010-11,0.73,28123,20615,572,0.56,6871,17169,0.46,CollegeInSight_Explore_NM.csv
+656,"Montana - Private, nonprofit",2009-10,0.75,25643,19171,498,0.54,7556,16121,0.47,CollegeInSight_Explore_NM.csv
+657,Montana - Public,2016-17,0.57,28137,16038,,,,5950,,CollegeInSight_Explore_NM.csv
+658,Montana - Public,2015-16,0.58,30954,17953,3239,0.48,6065,5865,0.41,CollegeInSight_Explore_NM.csv
+659,Montana - Public,2014-15,0.58,25983,15144,3471,0.5,6133,5791,0.39,CollegeInSight_Explore_NM.csv
+660,Montana - Public,2013-14,0.66,27049,17762,3414,0.5,6081,5659,0.4,CollegeInSight_Explore_NM.csv
+661,Montana - Public,2012-13,0.65,28030,18253,3536,0.52,6095,5570,0.43,CollegeInSight_Explore_NM.csv
+662,Montana - Public,2011-12,0.62,27401,17092,3872,0.55,5861,5366,0.43,CollegeInSight_Explore_NM.csv
+663,Montana - Public,2010-11,0.64,23714,15226,4134,0.56,5754,5103,0.44,CollegeInSight_Explore_NM.csv
+664,Montana - Public,2009-10,0.64,22489,14496,3693,0.53,5708,4902,0.41,CollegeInSight_Explore_NM.csv
+665,Montana - Total,2016-17,0.59,28466,16795,,,,7888,,CollegeInSight_Explore_NM.csv
+666,Montana - Total,2015-16,0.6,31065,18639,4015,0.49,6275,8036,0.44,CollegeInSight_Explore_NM.csv
+667,Montana - Total,2014-15,0.6,26280,15707,4316,0.52,6251,7641,0.41,CollegeInSight_Explore_NM.csv
+668,Montana - Total,2013-14,0.67,26946,17955,4255,0.52,6309,7376,0.43,CollegeInSight_Explore_NM.csv
+669,Montana - Total,2012-13,0.66,27568,18292,4400,0.53,6208,7411,0.45,CollegeInSight_Explore_NM.csv
+670,Montana - Total,2011-12,0.64,27475,17622,4675,0.55,5983,6937,0.45,CollegeInSight_Explore_NM.csv
+671,Montana - Total,2010-11,0.65,24113,15658,4966,0.56,5924,6531,0.47,CollegeInSight_Explore_NM.csv
+672,Montana - Total,2009-10,0.65,22768,14858,4337,0.53,5941,6198,0.44,CollegeInSight_Explore_NM.csv
+673,Most college-level data are taken directly from U.S. Department of Education sources and the Common Data Set (CDS).,,,,,,,,,,CollegeInSight_Explore_DE
+674,Most college-level data are taken directly from U.S. Department of Education sources and the Common Data Set (CDS).,,,,,,,,,,CollegeInSight_Explore_CA.csv
+675,Most college-level data are taken directly from U.S. Department of Education sources and the Common Data Set (CDS).,,,,,,,,,,CollegeInSight_Explore_IN.csv
+676,Most college-level data are taken directly from U.S. Department of Education sources and the Common Data Set (CDS).,,,,,,,,,,CollegeInSight_Explore_MN.csv
+677,Most college-level data are taken directly from U.S. Department of Education sources and the Common Data Set (CDS).,,,,,,,,,,CollegeInSight_Explore_NM.csv
+678,Most college-level data are taken directly from U.S. Department of Education sources and the Common Data Set (CDS).,,,,,,,,,,CollegeInSight_Explore_SD.csv
+679,Most college-level data are taken directly from U.S. Department of Education sources and the Common Data Set (CDS).,,,,,,,,,,CollegeInSight_Explore_WY.csv
+680,"Nebraska - Private, for-profit",2016-17,,,,,,,18830,,CollegeInSight_Explore_NM.csv
+681,"Nebraska - Private, for-profit",2015-16,,,,352,0.83,7342,18040,0.67,CollegeInSight_Explore_NM.csv
+682,"Nebraska - Private, for-profit",2014-15,,,,423,0.84,8352,17383,0.47,CollegeInSight_Explore_NM.csv
+683,"Nebraska - Private, for-profit",2013-14,,,,486,0.79,8878,16030,0.51,CollegeInSight_Explore_NM.csv
+684,"Nebraska - Private, for-profit",2012-13,,,,480,0.78,8319,16858,0.54,CollegeInSight_Explore_NM.csv
+685,"Nebraska - Private, for-profit",2011-12,,,,605,0.8,7923,16081,0.53,CollegeInSight_Explore_NM.csv
+686,"Nebraska - Private, for-profit",2010-11,,,,680,0.75,8903,15096,0.53,CollegeInSight_Explore_NM.csv
+687,"Nebraska - Private, for-profit",2009-10,,,,1785,0.74,10043,14998,0.59,CollegeInSight_Explore_NM.csv
+688,"Nebraska - Private, nonprofit",2016-17,0.61,33281,20301,,,,30466,,CollegeInSight_Explore_NM.csv
+689,"Nebraska - Private, nonprofit",2015-16,0.67,33147,22208,2352,0.69,7256,29014,0.65,CollegeInSight_Explore_NM.csv
+690,"Nebraska - Private, nonprofit",2014-15,0.67,32593,21819,2269,0.69,7400,27769,0.64,CollegeInSight_Explore_NM.csv
+691,"Nebraska - Private, nonprofit",2013-14,0.7,31163,21761,2544,0.76,7125,26452,0.64,CollegeInSight_Explore_NM.csv
+692,"Nebraska - Private, nonprofit",2012-13,0.7,33135,23328,2457,0.79,7197,26218,0.61,CollegeInSight_Explore_NM.csv
+693,"Nebraska - Private, nonprofit",2011-12,0.7,31786,22337,2197,0.7,6896,24966,0.6,CollegeInSight_Explore_NM.csv
+694,"Nebraska - Private, nonprofit",2010-11,0.73,29146,21252,2366,0.74,6491,23906,0.61,CollegeInSight_Explore_NM.csv
+695,"Nebraska - Private, nonprofit",2009-10,0.75,27286,20590,2146,0.72,7642,23105,0.62,CollegeInSight_Explore_NM.csv
+696,Nebraska - Public,2016-17,0.52,22278,11584,,,,6278,,CollegeInSight_Explore_NM.csv
+697,Nebraska - Public,2015-16,0.6,24835,14901,6113,0.48,5337,6108,0.48,CollegeInSight_Explore_NM.csv
+698,Nebraska - Public,2014-15,0.57,22762,12931,6062,0.46,5356,5819,0.47,CollegeInSight_Explore_NM.csv
+699,Nebraska - Public,2013-14,0.61,24599,14925,6176,0.47,5342,5623,0.46,CollegeInSight_Explore_NM.csv
+700,Nebraska - Public,2012-13,0.59,24130,14281,6378,0.5,5259,5397,0.45,CollegeInSight_Explore_NM.csv
+701,Nebraska - Public,2011-12,0.61,23982,14566,6859,0.53,5129,5185,0.45,CollegeInSight_Explore_NM.csv
+702,Nebraska - Public,2010-11,0.6,22222,13313,6448,0.49,4676,4916,0.47,CollegeInSight_Explore_NM.csv
+703,Nebraska - Public,2009-10,0.56,17677,9929,6673,0.51,4722,4670,0.47,CollegeInSight_Explore_NM.csv
+704,Nebraska - Total,2016-17,0.54,25750,13905,,,,11085,,CollegeInSight_Explore_NM.csv
+705,Nebraska - Total,2015-16,0.61,26585,16217,8817,0.53,5929,10987,0.52,CollegeInSight_Explore_NM.csv
+706,Nebraska - Total,2014-15,0.6,26235,15746,8754,0.52,6031,10286,0.5,CollegeInSight_Explore_NM.csv
+707,Nebraska - Total,2013-14,0.63,26278,16497,9206,0.54,6021,9932,0.5,CollegeInSight_Explore_NM.csv
+708,Nebraska - Total,2012-13,0.62,26490,16361,9315,0.56,5928,9528,0.49,CollegeInSight_Explore_NM.csv
+709,Nebraska - Total,2011-12,0.63,26473,16807,9661,0.57,5706,9137,0.48,CollegeInSight_Explore_NM.csv
+710,Nebraska - Total,2010-11,0.63,24287,15368,9494,0.55,5431,8802,0.5,CollegeInSight_Explore_NM.csv
+711,Nebraska - Total,2009-10,0.62,21227,13167,10604,0.57,6209,8463,0.51,CollegeInSight_Explore_NM.csv
+712,"Nevada - Private, for-profit",2016-17,,,,,,,17796,,CollegeInSight_Explore_SD.csv
+713,"Nevada - Private, for-profit",2015-16,,,,4785,0.76,7072,16964,0.59,CollegeInSight_Explore_SD.csv
+714,"Nevada - Private, for-profit",2014-15,,,,4601,0.77,7054,16207,0.57,CollegeInSight_Explore_SD.csv
+715,"Nevada - Private, for-profit",2013-14,,,,4837,0.77,7552,14325,0.54,CollegeInSight_Explore_SD.csv
+716,"Nevada - Private, for-profit",2012-13,,,,4715,0.72,7033,14027,0.57,CollegeInSight_Explore_SD.csv
+717,"Nevada - Private, for-profit",2011-12,,,,5159,0.81,7078,15546,0.58,CollegeInSight_Explore_SD.csv
+718,"Nevada - Private, for-profit",2010-11,,,,5754,0.79,7389,16433,0.55,CollegeInSight_Explore_SD.csv
+719,"Nevada - Private, for-profit",2009-10,,,,7845,0.8,7581,19414,0.56,CollegeInSight_Explore_SD.csv
+720,"Nevada - Private, nonprofit",2016-17,,,,,,,29505,,CollegeInSight_Explore_SD.csv
+721,"Nevada - Private, nonprofit",2015-16,,,,236,0.93,8024,26822,0.47,CollegeInSight_Explore_SD.csv
+722,"Nevada - Private, nonprofit",2014-15,,,,187,0.93,6597,29159,0.54,CollegeInSight_Explore_SD.csv
+723,"Nevada - Private, nonprofit",2013-14,,,,110,0.84,6196,28483,0.36,CollegeInSight_Explore_SD.csv
+724,"Nevada - Private, nonprofit",2012-13,0.5,26368,13184,100,0.82,7290,27654,0.71,CollegeInSight_Explore_SD.csv
+725,"Nevada - Private, nonprofit",2011-12,,,,180,0.83,7641,25370,0.46,CollegeInSight_Explore_SD.csv
+726,"Nevada - Private, nonprofit",2010-11,,,,187,0.85,5590,24515,0.39,CollegeInSight_Explore_SD.csv
+727,"Nevada - Private, nonprofit",2009-10,,,,194,0.84,6817,23258,0.51,CollegeInSight_Explore_SD.csv
+728,Nevada - Public,2016-17,0.49,22064,10812,,,,5801,,CollegeInSight_Explore_SD.csv
+729,Nevada - Public,2015-16,0.52,24128,12547,3258,0.3,5618,5697,0.35,CollegeInSight_Explore_SD.csv
+730,Nevada - Public,2014-15,0.47,23462,11133,3301,0.31,5977,5388,0.34,CollegeInSight_Explore_SD.csv
+731,Nevada - Public,2013-14,0.46,20217,9300,3215,0.33,6762,5437,0.35,CollegeInSight_Explore_SD.csv
+732,Nevada - Public,2012-13,0.43,21575,9258,2762,0.3,7122,5262,0.35,CollegeInSight_Explore_SD.csv
+733,Nevada - Public,2011-12,0.4,20442,8261,3974,0.46,6423,4792,0.35,CollegeInSight_Explore_SD.csv
+734,Nevada - Public,2010-11,0.44,20037,8792,3638,0.39,5578,4362,0.36,CollegeInSight_Explore_SD.csv
+735,Nevada - Public,2009-10,0.38,16672,6409,2420,0.25,5685,3699,0.35,CollegeInSight_Explore_SD.csv
+736,Nevada - Total,2016-17,0.49,22064,10812,,,,6267,,CollegeInSight_Explore_SD.csv
+737,Nevada - Total,2015-16,0.52,24128,12547,8279,0.48,6527,6285,0.45,CollegeInSight_Explore_SD.csv
+738,Nevada - Total,2014-15,0.47,23462,11133,8089,0.48,6604,6130,0.44,CollegeInSight_Explore_SD.csv
+739,Nevada - Total,2013-14,0.46,20217,9300,8162,0.51,7222,6367,0.43,CollegeInSight_Explore_SD.csv
+740,Nevada - Total,2012-13,0.43,21665,9321,7577,0.48,7069,6240,0.45,CollegeInSight_Explore_SD.csv
+741,Nevada - Total,2011-12,0.41,20568,8343,9313,0.61,6809,5933,0.46,CollegeInSight_Explore_SD.csv
+742,Nevada - Total,2010-11,0.44,19954,8794,9579,0.57,6666,5706,0.45,CollegeInSight_Explore_SD.csv
+743,Nevada - Total,2009-10,0.39,16622,6403,10459,0.53,7128,5304,0.44,CollegeInSight_Explore_SD.csv
+744,"New Hampshire - Private, for-profit",2016-17,,,,,,,,,CollegeInSight_Explore_NM.csv
+745,"New Hampshire - Private, for-profit",2015-16,,,,528,0.66,6829,15630,0.71,CollegeInSight_Explore_NM.csv
+746,"New Hampshire - Private, for-profit",2014-15,,,,686,0.66,7009,13845,0.28,CollegeInSight_Explore_NM.csv
+747,"New Hampshire - Private, for-profit",2013-14,,,,906,0.72,7175,12395,0.47,CollegeInSight_Explore_NM.csv
+748,"New Hampshire - Private, for-profit",2012-13,,,,1061,0.66,6795,13156,0.48,CollegeInSight_Explore_NM.csv
+749,"New Hampshire - Private, for-profit",2011-12,,,,1133,0.72,6484,13114,0.52,CollegeInSight_Explore_NM.csv
+750,"New Hampshire - Private, for-profit",2010-11,,,,1580,0.65,6564,14918,0.52,CollegeInSight_Explore_NM.csv
+751,"New Hampshire - Private, for-profit",2009-10,,,,2363,0.75,7041,17520,0.41,CollegeInSight_Explore_NM.csv
+752,"New Hampshire - Private, nonprofit",2016-17,0.66,32057,21158,,,,36923,,CollegeInSight_Explore_NM.csv
+753,"New Hampshire - Private, nonprofit",2015-16,0.64,30797,19710,3650,0.62,7877,35392,0.68,CollegeInSight_Explore_NM.csv
+754,"New Hampshire - Private, nonprofit",2014-15,0.72,35704,25736,3624,0.71,8144,35375,0.66,CollegeInSight_Explore_NM.csv
+755,"New Hampshire - Private, nonprofit",2013-14,0.63,28293,17774,3329,0.73,8387,35021,0.65,CollegeInSight_Explore_NM.csv
+756,"New Hampshire - Private, nonprofit",2012-13,0.68,28779,19568,3102,0.73,8412,34198,0.68,CollegeInSight_Explore_NM.csv
+757,"New Hampshire - Private, nonprofit",2011-12,0.61,29926,18240,2798,0.69,8615,32766,0.69,CollegeInSight_Explore_NM.csv
+758,"New Hampshire - Private, nonprofit",2010-11,0.68,32570,21986,2920,0.7,9571,31281,0.66,CollegeInSight_Explore_NM.csv
+759,"New Hampshire - Private, nonprofit",2009-10,0.65,30863,20036,2582,0.71,7485,30646,0.67,CollegeInSight_Explore_NM.csv
+760,New Hampshire - Public,2016-17,0.79,35657,28169,,,,13476,,CollegeInSight_Explore_NM.csv
+761,New Hampshire - Public,2015-16,0.8,39108,31287,5236,0.71,8769,13306,0.56,CollegeInSight_Explore_NM.csv
+762,New Hampshire - Public,2014-15,0.8,36503,29356,5400,0.74,8241,12845,0.56,CollegeInSight_Explore_NM.csv
+763,New Hampshire - Public,2013-14,0.81,35044,28541,5275,0.74,8209,12667,0.55,CollegeInSight_Explore_NM.csv
+764,New Hampshire - Public,2012-13,0.79,34170,26944,5404,0.74,7932,12684,0.54,CollegeInSight_Explore_NM.csv
+765,New Hampshire - Public,2011-12,0.8,33578,26699,5568,0.75,7417,11879,0.56,CollegeInSight_Explore_NM.csv
+766,New Hampshire - Public,2010-11,0.79,32385,25558,5589,0.73,6864,10362,0.56,CollegeInSight_Explore_NM.csv
+767,New Hampshire - Public,2009-10,0.77,31111,24110,5222,0.69,6956,9762,0.54,CollegeInSight_Explore_NM.csv
+768,New Hampshire - Total,2016-17,0.74,34415,25467,,,,23668,,CollegeInSight_Explore_NM.csv
+769,New Hampshire - Total,2015-16,0.74,36367,26912,9414,0.67,8314,23010,0.61,CollegeInSight_Explore_NM.csv
+770,New Hampshire - Total,2014-15,0.76,36101,27435,9710,0.72,8118,21912,0.55,CollegeInSight_Explore_NM.csv
+771,New Hampshire - Total,2013-14,0.76,33410,25388,9510,0.74,8173,21128,0.57,CollegeInSight_Explore_NM.csv
+772,New Hampshire - Total,2012-13,0.76,32795,24847,9567,0.73,7961,20408,0.57,CollegeInSight_Explore_NM.csv
+773,New Hampshire - Total,2011-12,0.74,32698,24220,9499,0.73,7659,19221,0.59,CollegeInSight_Explore_NM.csv
+774,New Hampshire - Total,2010-11,0.75,32440,24391,10089,0.71,7600,17522,0.58,CollegeInSight_Explore_NM.csv
+775,New Hampshire - Total,2009-10,0.74,31048,22925,10167,0.71,7110,16659,0.56,CollegeInSight_Explore_NM.csv
+776,"New Mexico - Private, for-profit",2016-17,,,,,,,31843,,CollegeInSight_Explore_NM.csv
+777,"New Mexico - Private, for-profit",2015-16,,,,2698,0.77,7836,25882,0.57,CollegeInSight_Explore_NM.csv
+778,"New Mexico - Private, for-profit",2014-15,,,,2957,0.77,7943,22159,0.53,CollegeInSight_Explore_NM.csv
+779,"New Mexico - Private, for-profit",2013-14,,,,3089,0.75,8320,20774,0.51,CollegeInSight_Explore_NM.csv
+780,"New Mexico - Private, for-profit",2012-13,,,,3403,0.79,8133,17929,0.54,CollegeInSight_Explore_NM.csv
+781,"New Mexico - Private, for-profit",2011-12,,,,4194,0.79,7988,17417,0.54,CollegeInSight_Explore_NM.csv
+782,"New Mexico - Private, for-profit",2010-11,,,,4860,0.8,7945,15531,0.54,CollegeInSight_Explore_NM.csv
+783,"New Mexico - Private, for-profit",2009-10,,,,4992,0.68,8516,11938,0.58,CollegeInSight_Explore_NM.csv
+784,"New Mexico - Private, nonprofit",2016-17,0.77,26990,20782,,,,30016,,CollegeInSight_Explore_NM.csv
+785,"New Mexico - Private, nonprofit",2015-16,0.71,27790,19731,106,0.65,4245,30848,0.37,CollegeInSight_Explore_NM.csv
+786,"New Mexico - Private, nonprofit",2014-15,0.76,26195,19908,88,0.62,4354,34808,0.33,CollegeInSight_Explore_NM.csv
+787,"New Mexico - Private, nonprofit",2013-14,0.8,25570,20456,110,0.84,5118,34559,0.35,CollegeInSight_Explore_NM.csv
+788,"New Mexico - Private, nonprofit",2012-13,0.77,25256,19447,101,0.69,6396,34424,0.42,CollegeInSight_Explore_NM.csv
+789,"New Mexico - Private, nonprofit",2011-12,0.68,28563,19423,134,0.79,6224,31106,0.48,CollegeInSight_Explore_NM.csv
+790,"New Mexico - Private, nonprofit",2010-11,0.7,25084,17488,142,0.82,5669,33548,0.39,CollegeInSight_Explore_NM.csv
+791,"New Mexico - Private, nonprofit",2009-10,,,,127,0.71,5738,33409,0.6,CollegeInSight_Explore_NM.csv
+792,New Mexico - Public,2016-17,0.53,20830,11040,,,,4117,,CollegeInSight_Explore_NM.csv
+793,New Mexico - Public,2015-16,0.55,21155,11635,3278,0.25,4674,4034,0.3,CollegeInSight_Explore_NM.csv
+794,New Mexico - Public,2014-15,0.57,20004,11459,4022,0.3,5099,3911,0.28,CollegeInSight_Explore_NM.csv
+795,New Mexico - Public,2013-14,0.48,18794,8929,3923,0.26,4995,3751,0.28,CollegeInSight_Explore_NM.csv
+796,New Mexico - Public,2012-13,0.54,18473,9909,4565,0.29,4873,3530,0.26,CollegeInSight_Explore_NM.csv
+797,New Mexico - Public,2011-12,0.61,17722,10776,5448,0.35,5045,3332,0.26,CollegeInSight_Explore_NM.csv
+798,New Mexico - Public,2010-11,,,,4349,0.28,5069,3249,0.27,CollegeInSight_Explore_NM.csv
+799,New Mexico - Public,2009-10,0.56,16298,9087,4249,0.26,4967,3018,0.28,CollegeInSight_Explore_NM.csv
+800,New Mexico - Total,2016-17,0.54,21237,11468,,,,4825,,CollegeInSight_Explore_NM.csv
+801,New Mexico - Total,2015-16,0.55,21373,11755,6082,0.36,6069,4891,0.35,CollegeInSight_Explore_NM.csv
+802,New Mexico - Total,2014-15,0.58,20193,11655,7067,0.41,6280,4835,0.33,CollegeInSight_Explore_NM.csv
+803,New Mexico - Total,2013-14,0.48,18969,9108,7122,0.37,6439,4573,0.32,CollegeInSight_Explore_NM.csv
+804,New Mexico - Total,2012-13,0.54,18656,10090,8069,0.4,6267,4330,0.32,CollegeInSight_Explore_NM.csv
+805,New Mexico - Total,2011-12,0.61,17994,10971,9776,0.47,6324,4140,0.33,CollegeInSight_Explore_NM.csv
+806,New Mexico - Total,2010-11,,,,9351,0.43,6573,3991,0.34,CollegeInSight_Explore_NM.csv
+807,New Mexico - Total,2009-10,0.56,16413,9211,9368,0.4,6869,3704,0.35,CollegeInSight_Explore_NM.csv
+808,"New York - Private, for-profit",2016-17,,,,,,,18659,,CollegeInSight_Explore_SD.csv
+809,"New York - Private, for-profit",2015-16,,,,12987,0.65,7094,17883,0.62,CollegeInSight_Explore_SD.csv
+810,"New York - Private, for-profit",2014-15,,,,15947,0.66,6809,17254,0.6,CollegeInSight_Explore_SD.csv
+811,"New York - Private, for-profit",2013-14,,,,17549,0.69,6954,16747,0.6,CollegeInSight_Explore_SD.csv
+812,"New York - Private, for-profit",2012-13,,,,18329,0.7,6682,16131,0.59,CollegeInSight_Explore_SD.csv
+813,"New York - Private, for-profit",2011-12,,,,23561,0.72,6911,15863,0.58,CollegeInSight_Explore_SD.csv
+814,"New York - Private, for-profit",2010-11,,,,26135,0.68,6848,15698,0.58,CollegeInSight_Explore_SD.csv
+815,"New York - Private, for-profit",2009-10,,,,27900,0.71,6382,15352,0.58,CollegeInSight_Explore_SD.csv
+816,"New York - Private, nonprofit",2016-17,0.63,33569,21149,,,,39769,,CollegeInSight_Explore_SD.csv
+817,"New York - Private, nonprofit",2015-16,0.58,32688,18959,36878,0.53,8096,38371,0.69,CollegeInSight_Explore_SD.csv
+818,"New York - Private, nonprofit",2014-15,0.66,32854,21650,36990,0.54,7934,37065,0.68,CollegeInSight_Explore_SD.csv
+819,"New York - Private, nonprofit",2013-14,0.67,30268,20272,37920,0.54,8067,35514,0.68,CollegeInSight_Explore_SD.csv
+820,"New York - Private, nonprofit",2012-13,0.65,30371,19668,39068,0.55,7798,33885,0.67,CollegeInSight_Explore_SD.csv
+821,"New York - Private, nonprofit",2011-12,0.65,30228,19773,41479,0.58,7403,32346,0.67,CollegeInSight_Explore_SD.csv
+822,"New York - Private, nonprofit",2010-11,0.66,30015,19764,42031,0.59,6936,30922,0.66,CollegeInSight_Explore_SD.csv
+823,"New York - Private, nonprofit",2009-10,0.67,29737,19970,41349,0.59,7278,29704,0.67,CollegeInSight_Explore_SD.csv
+824,New York - Public,2016-17,0.54,26380,14245,,,,6436,,CollegeInSight_Explore_SD.csv
+825,New York - Public,2015-16,0.58,25997,15078,36377,0.34,6033,6253,0.4,CollegeInSight_Explore_SD.csv
+826,New York - Public,2014-15,0.52,24307,12671,37860,0.35,5848,5939,0.38,CollegeInSight_Explore_SD.csv
+827,New York - Public,2013-14,0.54,23774,12876,37194,0.34,5950,5642,0.37,CollegeInSight_Explore_SD.csv
+828,New York - Public,2012-13,0.55,21720,12019,38133,0.35,5760,5346,0.36,CollegeInSight_Explore_SD.csv
+829,New York - Public,2011-12,0.55,20875,11448,41581,0.37,5398,5048,0.36,CollegeInSight_Explore_SD.csv
+830,New York - Public,2010-11,0.54,20561,11043,41386,0.37,5170,4682,0.36,CollegeInSight_Explore_SD.csv
+831,New York - Public,2009-10,0.55,21706,11890,43319,0.38,5018,4610,0.35,CollegeInSight_Explore_SD.csv
+832,New York - Total,2016-17,0.6,30931,18558,,,,19676,,CollegeInSight_Explore_SD.csv
+833,New York - Total,2015-16,0.58,30346,17601,86242,0.44,7075,18801,0.52,CollegeInSight_Explore_SD.csv
+834,New York - Total,2014-15,0.59,29320,17419,90797,0.45,6867,17919,0.51,CollegeInSight_Explore_SD.csv
+835,New York - Total,2013-14,0.61,27822,17109,92663,0.46,7006,17173,0.5,CollegeInSight_Explore_SD.csv
+836,New York - Total,2012-13,0.6,26371,15831,95530,0.47,6770,16368,0.49,CollegeInSight_Explore_SD.csv
+837,New York - Total,2011-12,0.6,25686,15364,106621,0.5,6512,15560,0.49,CollegeInSight_Explore_SD.csv
+838,New York - Total,2010-11,0.6,25764,15400,109552,0.49,6248,14762,0.49,CollegeInSight_Explore_SD.csv
+839,New York - Total,2009-10,0.61,26360,16166,112568,0.5,6186,14049,0.49,CollegeInSight_Explore_SD.csv
+840,"North Carolina - Private, for-profit",2016-17,,,,,,,12032,,CollegeInSight_Explore_NM.csv
+841,"North Carolina - Private, for-profit",2015-16,,,,3271,0.81,9565,13026,0.53,CollegeInSight_Explore_NM.csv
+842,"North Carolina - Private, for-profit",2014-15,,,,3906,0.8,9173,13509,0.51,CollegeInSight_Explore_NM.csv
+843,"North Carolina - Private, for-profit",2013-14,,,,4656,0.78,9320,13824,0.52,CollegeInSight_Explore_NM.csv
+844,"North Carolina - Private, for-profit",2012-13,,,,4296,0.78,9425,13649,0.57,CollegeInSight_Explore_NM.csv
+845,"North Carolina - Private, for-profit",2011-12,,,,4547,0.8,8785,14092,0.57,CollegeInSight_Explore_NM.csv
+846,"North Carolina - Private, for-profit",2010-11,,,,5030,0.8,8089,15183,0.55,CollegeInSight_Explore_NM.csv
+847,"North Carolina - Private, for-profit",2009-10,,,,6304,0.83,9017,17024,0.58,CollegeInSight_Explore_NM.csv
+848,"North Carolina - Private, nonprofit",2016-17,0.49,29837,14620,,,,32391,,CollegeInSight_Explore_NM.csv
+849,"North Carolina - Private, nonprofit",2015-16,0.51,27929,14244,10888,0.62,7422,31373,0.58,CollegeInSight_Explore_NM.csv
+850,"North Carolina - Private, nonprofit",2014-15,0.59,28838,17157,10904,0.63,8218,30307,0.58,CollegeInSight_Explore_NM.csv
+851,"North Carolina - Private, nonprofit",2013-14,0.6,28012,16725,10607,0.63,7654,29202,0.58,CollegeInSight_Explore_NM.csv
+852,"North Carolina - Private, nonprofit",2012-13,0.62,27051,16682,10672,0.63,7461,27972,0.58,CollegeInSight_Explore_NM.csv
+853,"North Carolina - Private, nonprofit",2011-12,0.6,27024,16224,11330,0.66,6907,26807,0.56,CollegeInSight_Explore_NM.csv
+854,"North Carolina - Private, nonprofit",2010-11,0.63,25094,15859,11577,0.67,6671,25539,0.58,CollegeInSight_Explore_NM.csv
+855,"North Carolina - Private, nonprofit",2009-10,0.6,25267,15046,10457,0.64,7402,24625,0.57,CollegeInSight_Explore_NM.csv
+856,North Carolina - Public,2016-17,0.61,25575,15601,,,,5460,,CollegeInSight_Explore_NM.csv
+857,North Carolina - Public,2015-16,0.6,24810,14886,20370,0.39,6214,5216,0.45,CollegeInSight_Explore_NM.csv
+858,North Carolina - Public,2014-15,0.63,24816,15523,21313,0.39,6293,4938,0.44,CollegeInSight_Explore_NM.csv
+859,North Carolina - Public,2013-14,0.62,24415,15053,22210,0.4,6152,4747,0.43,CollegeInSight_Explore_NM.csv
+860,North Carolina - Public,2012-13,0.61,23440,14362,23022,0.41,5996,4493,0.42,CollegeInSight_Explore_NM.csv
+861,North Carolina - Public,2011-12,0.59,22779,13415,22468,0.41,5628,4193,0.42,CollegeInSight_Explore_NM.csv
+862,North Carolina - Public,2010-11,0.53,18750,9867,20433,0.36,5429,3759,0.43,CollegeInSight_Explore_NM.csv
+863,North Carolina - Public,2009-10,0.5,18845,9493,19290,0.34,5199,3252,0.44,CollegeInSight_Explore_NM.csv
+864,North Carolina - Total,2016-17,0.57,26526,15120,,,,12172,,CollegeInSight_Explore_NM.csv
+865,North Carolina - Total,2015-16,0.58,25562,14826,34529,0.46,6913,11769,0.48,CollegeInSight_Explore_NM.csv
+866,North Carolina - Total,2014-15,0.62,25734,15911,36123,0.47,7186,11178,0.47,CollegeInSight_Explore_NM.csv
+867,North Carolina - Total,2013-14,0.61,25263,15457,37473,0.48,6971,10590,0.47,CollegeInSight_Explore_NM.csv
+868,North Carolina - Total,2012-13,0.61,24319,14924,37990,0.48,6795,9667,0.47,CollegeInSight_Explore_NM.csv
+869,North Carolina - Total,2011-12,0.59,23891,14140,38345,0.49,6380,9333,0.46,CollegeInSight_Explore_NM.csv
+870,North Carolina - Total,2010-11,0.56,20765,11541,37040,0.47,6178,8654,0.47,CollegeInSight_Explore_NM.csv
+871,North Carolina - Total,2009-10,0.53,20959,11122,36051,0.44,6506,7854,0.47,CollegeInSight_Explore_NM.csv
+872,"North Dakota - Private, for-profit",2016-17,,,,,,,9360,,CollegeInSight_Explore_NM.csv
+873,"North Dakota - Private, for-profit",2015-16,,,,182,0.69,9860,9360,0.6,CollegeInSight_Explore_NM.csv
+874,"North Dakota - Private, for-profit",2014-15,,,,163,0.65,8687,10764,0.56,CollegeInSight_Explore_NM.csv
+875,"North Dakota - Private, for-profit",2013-14,,,,214,0.63,7980,10764,0.63,CollegeInSight_Explore_NM.csv
+876,"North Dakota - Private, for-profit",2012-13,,,,192,0.55,8584,12650,0.62,CollegeInSight_Explore_NM.csv
+877,"North Dakota - Private, for-profit",2011-12,,,,226,0.68,9066,12640,0.59,CollegeInSight_Explore_NM.csv
+878,"North Dakota - Private, for-profit",2010-11,,,,309,0.78,9606,13560,0.67,CollegeInSight_Explore_NM.csv
+879,"North Dakota - Private, for-profit",2009-10,,,,304,0.71,7823,13200,0.64,CollegeInSight_Explore_NM.csv
+880,"North Dakota - Private, nonprofit",2016-17,,,,,,,14782,,CollegeInSight_Explore_NM.csv
+881,"North Dakota - Private, nonprofit",2015-16,,,,504,0.56,8013,14698,0.41,CollegeInSight_Explore_NM.csv
+882,"North Dakota - Private, nonprofit",2014-15,0.58,33936,19683,470,0.52,7643,13005,0.47,CollegeInSight_Explore_NM.csv
+883,"North Dakota - Private, nonprofit",2013-14,,,,541,0.56,7153,13146,0.43,CollegeInSight_Explore_NM.csv
+884,"North Dakota - Private, nonprofit",2012-13,,,,523,0.59,6816,12443,0.4,CollegeInSight_Explore_NM.csv
+885,"North Dakota - Private, nonprofit",2011-12,0.81,28970,23466,489,0.55,6649,11611,0.43,CollegeInSight_Explore_NM.csv
+886,"North Dakota - Private, nonprofit",2010-11,0.85,25750,21847,457,0.5,7052,10695,0.45,CollegeInSight_Explore_NM.csv
+887,"North Dakota - Private, nonprofit",2009-10,0.8,25439,20281,489,0.52,7028,10107,0.39,CollegeInSight_Explore_NM.csv
+888,North Dakota - Public,2016-17,,,,,,,6872,,CollegeInSight_Explore_NM.csv
+889,North Dakota - Public,2015-16,,,,4336,0.59,8163,6733,0.49,CollegeInSight_Explore_NM.csv
+890,North Dakota - Public,2014-15,,,,4349,0.6,7945,6559,0.48,CollegeInSight_Explore_NM.csv
+891,North Dakota - Public,2013-14,,,,4329,0.58,7810,6320,0.49,CollegeInSight_Explore_NM.csv
+892,North Dakota - Public,2012-13,,,,4766,0.61,7412,6190,0.48,CollegeInSight_Explore_NM.csv
+893,North Dakota - Public,2011-12,,,,4935,0.63,7124,6034,0.47,CollegeInSight_Explore_NM.csv
+894,North Dakota - Public,2010-11,0.83,28008,23162,4844,0.63,6855,5812,0.48,CollegeInSight_Explore_NM.csv
+895,North Dakota - Public,2009-10,0.81,26655,21576,4749,0.64,7030,5625,0.46,CollegeInSight_Explore_NM.csv
+896,North Dakota - Total,2016-17,,,,,,,7797,,CollegeInSight_Explore_NM.csv
+897,North Dakota - Total,2015-16,,,,5022,0.59,8209,7568,0.49,CollegeInSight_Explore_NM.csv
+898,North Dakota - Total,2014-15,,,,4982,0.59,7941,7330,0.48,CollegeInSight_Explore_NM.csv
+899,North Dakota - Total,2013-14,,,,5084,0.58,7747,7112,0.49,CollegeInSight_Explore_NM.csv
+900,North Dakota - Total,2012-13,,,,5481,0.61,7397,6842,0.48,CollegeInSight_Explore_NM.csv
+901,North Dakota - Total,2011-12,,,,5650,0.63,7161,6627,0.47,CollegeInSight_Explore_NM.csv
+902,North Dakota - Total,2010-11,0.83,27580,22918,5610,0.62,7023,6383,0.49,CollegeInSight_Explore_NM.csv
+903,North Dakota - Total,2009-10,0.81,26429,21332,5542,0.63,7073,6202,0.46,CollegeInSight_Explore_NM.csv
+904,"Ohio - Private, for-profit",2016-17,,,,,,,15347,,CollegeInSight_Explore_SD.csv
+905,"Ohio - Private, for-profit",2015-16,,,,6118,0.78,7894,15593,0.52,CollegeInSight_Explore_SD.csv
+906,"Ohio - Private, for-profit",2014-15,,,,7974,0.75,7525,15242,0.51,CollegeInSight_Explore_SD.csv
+907,"Ohio - Private, for-profit",2013-14,,,,9350,0.76,8154,14623,0.56,CollegeInSight_Explore_SD.csv
+908,"Ohio - Private, for-profit",2012-13,,,,9539,0.77,7756,14596,0.57,CollegeInSight_Explore_SD.csv
+909,"Ohio - Private, for-profit",2011-12,,,,10254,0.78,7622,13800,0.58,CollegeInSight_Explore_SD.csv
+910,"Ohio - Private, for-profit",2010-11,,,,14943,0.81,7937,13435,0.57,CollegeInSight_Explore_SD.csv
+911,"Ohio - Private, for-profit",2009-10,,,,16860,0.76,7957,13952,0.58,CollegeInSight_Explore_SD.csv
+912,"Ohio - Private, nonprofit",2016-17,0.63,34025,21436,,,,32661,,CollegeInSight_Explore_SD.csv
+913,"Ohio - Private, nonprofit",2015-16,0.64,32574,20848,16005,0.69,7950,31814,0.63,CollegeInSight_Explore_SD.csv
+914,"Ohio - Private, nonprofit",2014-15,0.7,32532,22739,16516,0.7,7956,30855,0.63,CollegeInSight_Explore_SD.csv
+915,"Ohio - Private, nonprofit",2013-14,0.72,32679,23434,17258,0.73,7978,30214,0.63,CollegeInSight_Explore_SD.csv
+916,"Ohio - Private, nonprofit",2012-13,0.74,32101,23768,17861,0.74,8190,29027,0.64,CollegeInSight_Explore_SD.csv
+917,"Ohio - Private, nonprofit",2011-12,0.73,32389,23616,17924,0.76,7502,27676,0.65,CollegeInSight_Explore_SD.csv
+918,"Ohio - Private, nonprofit",2010-11,0.75,32210,24171,17867,0.74,7384,26954,0.65,CollegeInSight_Explore_SD.csv
+919,"Ohio - Private, nonprofit",2009-10,0.74,31183,23215,17031,0.73,7648,25722,0.64,CollegeInSight_Explore_SD.csv
+920,Ohio - Public,2016-17,0.62,29465,18268,,,,8522,,CollegeInSight_Explore_SD.csv
+921,Ohio - Public,2015-16,0.64,29651,18977,36133,0.54,6382,8558,0.46,CollegeInSight_Explore_SD.csv
+922,Ohio - Public,2014-15,0.65,29436,19095,37878,0.56,6400,8307,0.46,CollegeInSight_Explore_SD.csv
+923,Ohio - Public,2013-14,0.65,28146,18263,40915,0.58,6297,8070,0.45,CollegeInSight_Explore_SD.csv
+924,Ohio - Public,2012-13,0.65,28010,18342,43631,0.6,6355,7849,0.44,CollegeInSight_Explore_SD.csv
+925,Ohio - Public,2011-12,0.68,27990,18900,47481,0.62,6048,7446,0.44,CollegeInSight_Explore_SD.csv
+926,Ohio - Public,2010-11,0.66,26881,17708,48918,0.59,5915,6980,0.45,CollegeInSight_Explore_SD.csv
+927,Ohio - Public,2009-10,0.66,26175,17252,47621,0.57,5852,6523,0.45,CollegeInSight_Explore_SD.csv
+928,Ohio - Total,2016-17,0.62,30629,18990,,,,14674,,CollegeInSight_Explore_SD.csv
+929,Ohio - Total,2015-16,0.64,30351,19425,58256,0.6,6971,14719,0.5,CollegeInSight_Explore_SD.csv
+930,Ohio - Total,2014-15,0.66,30239,19989,62368,0.61,6956,14358,0.5,CollegeInSight_Explore_SD.csv
+931,Ohio - Total,2013-14,0.67,29353,19542,67523,0.63,6984,13901,0.5,CollegeInSight_Explore_SD.csv
+932,Ohio - Total,2012-13,0.68,29090,19648,71031,0.65,7004,13408,0.5,CollegeInSight_Explore_SD.csv
+933,Ohio - Total,2011-12,0.69,29037,19957,75659,0.66,6606,12488,0.5,CollegeInSight_Explore_SD.csv
+934,Ohio - Total,2010-11,0.68,28459,19451,81728,0.66,6606,11886,0.51,CollegeInSight_Explore_SD.csv
+935,Ohio - Total,2009-10,0.68,27714,18933,81512,0.63,6662,11262,0.51,CollegeInSight_Explore_SD.csv
+936,"Oklahoma - Private, for-profit",2016-17,,,,,,,16048,,CollegeInSight_Explore_SD.csv
+937,"Oklahoma - Private, for-profit",2015-16,,,,2572,0.73,7863,16655,0.56,CollegeInSight_Explore_SD.csv
+938,"Oklahoma - Private, for-profit",2014-15,,,,3930,0.7,7844,16100,0.51,CollegeInSight_Explore_SD.csv
+939,"Oklahoma - Private, for-profit",2013-14,,,,4143,0.7,7616,15226,0.55,CollegeInSight_Explore_SD.csv
+940,"Oklahoma - Private, for-profit",2012-13,,,,4575,0.76,7762,14771,0.58,CollegeInSight_Explore_SD.csv
+941,"Oklahoma - Private, for-profit",2011-12,,,,5355,0.72,7239,14169,0.6,CollegeInSight_Explore_SD.csv
+942,"Oklahoma - Private, for-profit",2010-11,,,,6630,0.76,7200,14263,0.58,CollegeInSight_Explore_SD.csv
+943,"Oklahoma - Private, for-profit",2009-10,,,,8366,0.81,7956,12968,0.61,CollegeInSight_Explore_SD.csv
+944,"Oklahoma - Private, nonprofit",2016-17,0.57,30014,17108,,,,26045,,CollegeInSight_Explore_SD.csv
+945,"Oklahoma - Private, nonprofit",2015-16,0.57,30137,17178,3310,0.63,7819,25736,0.53,CollegeInSight_Explore_SD.csv
+946,"Oklahoma - Private, nonprofit",2014-15,0.6,30136,18136,2046,0.58,7706,24520,0.52,CollegeInSight_Explore_SD.csv
+947,"Oklahoma - Private, nonprofit",2013-14,0.62,28784,17785,2238,0.56,7611,23635,0.5,CollegeInSight_Explore_SD.csv
+948,"Oklahoma - Private, nonprofit",2012-13,0.57,28660,16301,2024,0.57,7736,22984,0.51,CollegeInSight_Explore_SD.csv
+949,"Oklahoma - Private, nonprofit",2011-12,0.56,28569,16004,1960,0.6,6747,21597,0.48,CollegeInSight_Explore_SD.csv
+950,"Oklahoma - Private, nonprofit",2010-11,0.52,24511,12647,2189,0.63,6877,20521,0.51,CollegeInSight_Explore_SD.csv
+951,"Oklahoma - Private, nonprofit",2009-10,0.67,26589,17845,1976,0.6,6741,19667,0.49,CollegeInSight_Explore_SD.csv
+952,Oklahoma - Public,2016-17,0.48,25370,12178,,,,6360,,CollegeInSight_Explore_SD.csv
+953,Oklahoma - Public,2015-16,0.5,25360,12680,9573,0.32,5850,5911,0.4,CollegeInSight_Explore_SD.csv
+954,Oklahoma - Public,2014-15,0.51,23739,11992,9431,0.34,5502,5626,0.39,CollegeInSight_Explore_SD.csv
+955,Oklahoma - Public,2013-14,0.54,22329,12051,9301,0.33,5491,5362,0.39,CollegeInSight_Explore_SD.csv
+956,Oklahoma - Public,2012-13,0.52,21233,10970,10499,0.36,5426,5258,0.39,CollegeInSight_Explore_SD.csv
+957,Oklahoma - Public,2011-12,0.52,22374,11595,12111,0.39,5376,4870,0.38,CollegeInSight_Explore_SD.csv
+958,Oklahoma - Public,2010-11,0.53,20815,10937,10878,0.35,5307,4535,0.41,CollegeInSight_Explore_SD.csv
+959,Oklahoma - Public,2009-10,0.54,19874,10792,10842,0.34,5056,4202,0.38,CollegeInSight_Explore_SD.csv
+960,Oklahoma - Total,2016-17,0.49,25952,12716,,,,9054,,CollegeInSight_Explore_SD.csv
+961,Oklahoma - Total,2015-16,0.5,25856,12928,15455,0.4,6607,8571,0.43,CollegeInSight_Explore_SD.csv
+962,Oklahoma - Total,2014-15,0.52,24849,12913,15407,0.41,6392,8174,0.42,CollegeInSight_Explore_SD.csv
+963,Oklahoma - Total,2013-14,0.55,23430,12924,15682,0.41,6355,8121,0.42,CollegeInSight_Explore_SD.csv
+964,Oklahoma - Total,2012-13,0.53,22570,11856,17098,0.44,6324,7652,0.43,CollegeInSight_Explore_SD.csv
+965,Oklahoma - Total,2011-12,0.53,23636,12439,19426,0.47,6028,6953,0.43,CollegeInSight_Explore_SD.csv
+966,Oklahoma - Total,2010-11,0.52,21190,11113,19697,0.45,6119,6696,0.45,CollegeInSight_Explore_SD.csv
+967,Oklahoma - Total,2009-10,0.56,20708,11518,21184,0.47,6358,6313,0.44,CollegeInSight_Explore_SD.csv
+968,"Oregon - Private, for-profit",2016-17,,,,,,,16048,,CollegeInSight_Explore_SD.csv
+969,"Oregon - Private, for-profit",2015-16,,,,1732,0.76,7142,16028,0.64,CollegeInSight_Explore_SD.csv
+970,"Oregon - Private, for-profit",2014-15,,,,2091,0.77,7374,15683,0.61,CollegeInSight_Explore_SD.csv
+971,"Oregon - Private, for-profit",2013-14,,,,2487,0.79,7463,15045,0.58,CollegeInSight_Explore_SD.csv
+972,"Oregon - Private, for-profit",2012-13,,,,2713,0.78,7583,14130,0.68,CollegeInSight_Explore_SD.csv
+973,"Oregon - Private, for-profit",2011-12,,,,3091,0.79,7574,14223,0.61,CollegeInSight_Explore_SD.csv
+974,"Oregon - Private, for-profit",2010-11,,,,4579,0.82,8207,14209,0.59,CollegeInSight_Explore_SD.csv
+975,"Oregon - Private, for-profit",2009-10,,,,6301,0.79,7838,16625,0.61,CollegeInSight_Explore_SD.csv
+976,"Oregon - Private, nonprofit",2016-17,0.64,30647,19614,,,,40417,,CollegeInSight_Explore_SD.csv
+977,"Oregon - Private, nonprofit",2015-16,0.65,28566,18568,3216,0.61,7255,39193,0.69,CollegeInSight_Explore_SD.csv
+978,"Oregon - Private, nonprofit",2014-15,0.69,27409,18785,3244,0.64,7271,37665,0.7,CollegeInSight_Explore_SD.csv
+979,"Oregon - Private, nonprofit",2013-14,0.72,26917,19292,3097,0.65,7304,36180,0.71,CollegeInSight_Explore_SD.csv
+980,"Oregon - Private, nonprofit",2012-13,0.71,28025,19785,3314,0.7,7161,35029,0.68,CollegeInSight_Explore_SD.csv
+981,"Oregon - Private, nonprofit",2011-12,0.71,28227,19910,3141,0.65,6561,33580,0.68,CollegeInSight_Explore_SD.csv
+982,"Oregon - Private, nonprofit",2010-11,0.69,27334,18808,3465,0.73,6194,31400,0.68,CollegeInSight_Explore_SD.csv
+983,"Oregon - Private, nonprofit",2009-10,0.69,24579,16879,2589,0.61,6397,30321,0.7,CollegeInSight_Explore_SD.csv
+984,Oregon - Public,2016-17,0.54,26676,14405,,,,7600,,CollegeInSight_Explore_SD.csv
+985,Oregon - Public,2015-16,0.56,26735,14972,8148,0.44,6272,7489,0.42,CollegeInSight_Explore_SD.csv
+986,Oregon - Public,2014-15,0.61,27782,17009,8261,0.46,6217,7184,0.41,CollegeInSight_Explore_SD.csv
+987,Oregon - Public,2013-14,0.59,25862,15362,9166,0.48,6286,6784,0.4,CollegeInSight_Explore_SD.csv
+988,Oregon - Public,2012-13,0.56,24248,13498,10229,0.52,6232,6480,0.37,CollegeInSight_Explore_SD.csv
+989,Oregon - Public,2011-12,0.56,25880,14553,10797,0.54,6194,6122,0.35,CollegeInSight_Explore_SD.csv
+990,Oregon - Public,2010-11,0.6,24616,14869,10878,0.52,6053,5593,0.35,CollegeInSight_Explore_SD.csv
+991,Oregon - Public,2009-10,0.6,23675,14250,10249,0.47,5796,5150,0.37,CollegeInSight_Explore_SD.csv
+992,Oregon - Total,2016-17,0.56,27885,15615,,,,13902,,CollegeInSight_Explore_SD.csv
+993,Oregon - Total,2015-16,0.58,27321,15846,13096,0.5,6628,14191,0.49,CollegeInSight_Explore_SD.csv
+994,Oregon - Total,2014-15,0.63,27697,17380,13596,0.53,6646,13773,0.48,CollegeInSight_Explore_SD.csv
+995,Oregon - Total,2013-14,0.62,26106,16147,14750,0.55,6698,12441,0.48,CollegeInSight_Explore_SD.csv
+996,Oregon - Total,2012-13,0.6,25585,15394,16256,0.58,6647,11825,0.47,CollegeInSight_Explore_SD.csv
+997,Oregon - Total,2011-12,0.6,26639,16031,17029,0.6,6512,11398,0.45,CollegeInSight_Explore_SD.csv
+998,Oregon - Total,2010-11,0.63,25497,16036,18922,0.61,6600,10389,0.45,CollegeInSight_Explore_SD.csv
+999,Oregon - Total,2009-10,0.63,23967,15027,19139,0.57,6550,9637,0.47,CollegeInSight_Explore_SD.csv
+1000,"Pennsylvania - Private, for-profit",2016-17,,,,,,,15907,,CollegeInSight_Explore_SD.csv
+1001,"Pennsylvania - Private, for-profit",2015-16,,,,13274,0.79,7659,16113,0.57,CollegeInSight_Explore_SD.csv
+1002,"Pennsylvania - Private, for-profit",2014-15,,,,15890,0.79,7528,16224,0.58,CollegeInSight_Explore_SD.csv
+1003,"Pennsylvania - Private, for-profit",2013-14,,,,17040,0.79,8046,15846,0.55,CollegeInSight_Explore_SD.csv
+1004,"Pennsylvania - Private, for-profit",2012-13,,,,19226,0.8,8064,15797,0.6,CollegeInSight_Explore_SD.csv
+1005,"Pennsylvania - Private, for-profit",2011-12,,,,22030,0.85,8193,14932,0.6,CollegeInSight_Explore_SD.csv
+1006,"Pennsylvania - Private, for-profit",2010-11,,,,24279,0.83,8035,14841,0.61,CollegeInSight_Explore_SD.csv
+1007,"Pennsylvania - Private, for-profit",2009-10,,,,30145,0.76,8239,16226,0.61,CollegeInSight_Explore_SD.csv
+1008,"Pennsylvania - Private, nonprofit",2016-17,0.63,37060,23348,,,,39182,,CollegeInSight_Explore_SD.csv
+1009,"Pennsylvania - Private, nonprofit",2015-16,0.63,35102,22114,29092,0.65,8793,38002,0.71,CollegeInSight_Explore_SD.csv
+1010,"Pennsylvania - Private, nonprofit",2014-15,0.67,34423,23141,29498,0.66,8781,36459,0.71,CollegeInSight_Explore_SD.csv
+1011,"Pennsylvania - Private, nonprofit",2013-14,0.67,32833,22118,29325,0.65,8942,34562,0.7,CollegeInSight_Explore_SD.csv
+1012,"Pennsylvania - Private, nonprofit",2012-13,0.68,32340,21992,30619,0.66,8704,33135,0.7,CollegeInSight_Explore_SD.csv
+1013,"Pennsylvania - Private, nonprofit",2011-12,0.68,30522,20685,31398,0.68,8102,31964,0.7,CollegeInSight_Explore_SD.csv
+1014,"Pennsylvania - Private, nonprofit",2010-11,0.69,31166,21424,31492,0.68,7915,30529,0.71,CollegeInSight_Explore_SD.csv
+1015,"Pennsylvania - Private, nonprofit",2009-10,0.68,29617,20157,31002,0.68,8404,29525,0.72,CollegeInSight_Explore_SD.csv
+1016,Pennsylvania - Public,2016-17,0.71,36704,26060,,,,11873,,CollegeInSight_Explore_SD.csv
+1017,Pennsylvania - Public,2015-16,0.72,36426,26227,38873,0.62,7864,11277,0.53,CollegeInSight_Explore_SD.csv
+1018,Pennsylvania - Public,2014-15,0.73,35038,25523,40483,0.62,7742,10996,0.52,CollegeInSight_Explore_SD.csv
+1019,Pennsylvania - Public,2013-14,0.72,33545,24207,39690,0.61,7662,10608,0.51,CollegeInSight_Explore_SD.csv
+1020,Pennsylvania - Public,2012-13,0.74,32659,24070,40366,0.62,7533,10107,0.49,CollegeInSight_Explore_SD.csv
+1021,Pennsylvania - Public,2011-12,0.73,32458,23705,41864,0.62,7103,9712,0.48,CollegeInSight_Explore_SD.csv
+1022,Pennsylvania - Public,2010-11,0.71,29207,20868,42590,0.6,6674,8928,0.49,CollegeInSight_Explore_SD.csv
+1023,Pennsylvania - Public,2009-10,0.71,27838,19798,43411,0.6,6606,8289,0.48,CollegeInSight_Explore_SD.csv
+1024,Pennsylvania - Total,2016-17,0.67,36854,24692,,,,22956,,CollegeInSight_Explore_SD.csv
+1025,Pennsylvania - Total,2015-16,0.68,35888,24404,81239,0.65,8163,22146,0.6,CollegeInSight_Explore_SD.csv
+1026,Pennsylvania - Total,2014-15,0.71,34804,24574,85871,0.66,8059,21203,0.59,CollegeInSight_Explore_SD.csv
+1027,Pennsylvania - Total,2013-14,0.7,33263,23346,86055,0.66,8175,20353,0.58,CollegeInSight_Explore_SD.csv
+1028,Pennsylvania - Total,2012-13,0.71,32529,23183,90211,0.67,8044,19542,0.58,CollegeInSight_Explore_SD.csv
+1029,Pennsylvania - Total,2011-12,0.71,31677,22433,95292,0.68,7684,18604,0.57,CollegeInSight_Explore_SD.csv
+1030,Pennsylvania - Total,2010-11,0.7,30025,21106,98361,0.67,7407,17442,0.58,CollegeInSight_Explore_SD.csv
+1031,Pennsylvania - Total,2009-10,0.7,28599,19955,104558,0.66,7610,16533,0.59,CollegeInSight_Explore_SD.csv
+1032,"Rhode Island - Private, for-profit",2016-17,,,,,,,,,CollegeInSight_Explore_SD.csv
+1033,"Rhode Island - Private, for-profit",2015-16,,,,1274,0.87,6695,16786,0.71,CollegeInSight_Explore_SD.csv
+1034,"Rhode Island - Private, for-profit",2014-15,,,,1151,0.87,6599,,0.78,CollegeInSight_Explore_SD.csv
+1035,"Rhode Island - Private, for-profit",2013-14,,,,981,0.82,7419,,0.72,CollegeInSight_Explore_SD.csv
+1036,"Rhode Island - Private, for-profit",2012-13,,,,1002,0.8,7306,,0.67,CollegeInSight_Explore_SD.csv
+1037,"Rhode Island - Private, for-profit",2011-12,,,,1149,0.84,6762,,0.71,CollegeInSight_Explore_SD.csv
+1038,"Rhode Island - Private, for-profit",2010-11,,,,2391,0.79,6342,,0.62,CollegeInSight_Explore_SD.csv
+1039,"Rhode Island - Private, for-profit",2009-10,,,,2499,0.61,6835,,0.67,CollegeInSight_Explore_SD.csv
+1040,"Rhode Island - Private, nonprofit",2016-17,,,,,,,39382,,CollegeInSight_Explore_SD.csv
+1041,"Rhode Island - Private, nonprofit",2015-16,,,,4819,0.61,10140,38245,0.74,CollegeInSight_Explore_SD.csv
+1042,"Rhode Island - Private, nonprofit",2014-15,0.58,35341,20360,4966,0.61,11338,36832,0.73,CollegeInSight_Explore_SD.csv
+1043,"Rhode Island - Private, nonprofit",2013-14,0.59,34451,20487,5120,0.64,9549,35645,0.72,CollegeInSight_Explore_SD.csv
+1044,"Rhode Island - Private, nonprofit",2012-13,0.62,34271,21262,4751,0.61,9314,34638,0.72,CollegeInSight_Explore_SD.csv
+1045,"Rhode Island - Private, nonprofit",2011-12,0.62,33212,20426,5259,0.64,8814,32847,0.71,CollegeInSight_Explore_SD.csv
+1046,"Rhode Island - Private, nonprofit",2010-11,0.66,33463,21948,5283,0.65,8371,31874,0.7,CollegeInSight_Explore_SD.csv
+1047,"Rhode Island - Private, nonprofit",2009-10,0.61,32165,19474,5162,0.64,7780,29460,0.71,CollegeInSight_Explore_SD.csv
+1048,Rhode Island - Public,2016-17,0.75,31442,23581,,,,10060,,CollegeInSight_Explore_SD.csv
+1049,Rhode Island - Public,2015-16,0.75,31187,23390,3448,0.61,6155,9586,0.47,CollegeInSight_Explore_SD.csv
+1050,Rhode Island - Public,2014-15,0.72,30592,22115,3671,0.63,5975,9206,0.45,CollegeInSight_Explore_SD.csv
+1051,Rhode Island - Public,2013-14,0.71,29076,20644,3418,0.6,5968,9052,0.41,CollegeInSight_Explore_SD.csv
+1052,Rhode Island - Public,2012-13,0.78,28875,22403,3713,0.62,5947,8816,0.43,CollegeInSight_Explore_SD.csv
+1053,Rhode Island - Public,2011-12,0.78,27919,21684,3544,0.6,5356,8072,0.41,CollegeInSight_Explore_SD.csv
+1054,Rhode Island - Public,2010-11,0.74,24500,18115,2887,0.49,6201,7429,0.39,CollegeInSight_Explore_SD.csv
+1055,Rhode Island - Public,2009-10,0.73,21502,15696,3014,0.48,6200,6812,0.39,CollegeInSight_Explore_SD.csv
+1056,Rhode Island - Total,2016-17,0.64,36250,23200,,,,27537,,CollegeInSight_Explore_SD.csv
+1057,Rhode Island - Total,2015-16,0.61,31217,19043,9541,0.63,8240,26324,0.64,CollegeInSight_Explore_SD.csv
+1058,Rhode Island - Total,2014-15,0.64,32920,21156,9788,0.64,8769,25204,0.62,CollegeInSight_Explore_SD.csv
+1059,Rhode Island - Total,2013-14,0.65,31841,20556,9519,0.64,8044,24466,0.6,CollegeInSight_Explore_SD.csv
+1060,Rhode Island - Total,2012-13,0.69,31561,21772,9466,0.63,7781,23313,0.61,CollegeInSight_Explore_SD.csv
+1061,Rhode Island - Total,2011-12,0.69,30483,21001,9952,0.64,7345,22422,0.6,CollegeInSight_Explore_SD.csv
+1062,Rhode Island - Total,2010-11,0.69,29097,20195,10561,0.62,7318,21613,0.58,CollegeInSight_Explore_SD.csv
+1063,Rhode Island - Total,2009-10,0.67,26340,17587,10675,0.58,7113,19510,0.6,CollegeInSight_Explore_SD.csv
+1064,"South Carolina - Private, for-profit",2016-17,,,,,,,14407,,CollegeInSight_Explore_SD.csv
+1065,"South Carolina - Private, for-profit",2015-16,,,,1534,0.65,7513,14729,0.51,CollegeInSight_Explore_SD.csv
+1066,"South Carolina - Private, for-profit",2014-15,,,,2092,0.81,6955,14488,0.47,CollegeInSight_Explore_SD.csv
+1067,"South Carolina - Private, for-profit",2013-14,,,,1998,0.7,7993,14142,0.58,CollegeInSight_Explore_SD.csv
+1068,"South Carolina - Private, for-profit",2012-13,,,,2264,0.67,8347,13845,0.58,CollegeInSight_Explore_SD.csv
+1069,"South Carolina - Private, for-profit",2011-12,,,,2232,0.73,8305,13795,0.6,CollegeInSight_Explore_SD.csv
+1070,"South Carolina - Private, for-profit",2010-11,,,,3485,0.75,7411,14530,0.59,CollegeInSight_Explore_SD.csv
+1071,"South Carolina - Private, for-profit",2009-10,,,,2747,0.82,7987,18086,0.68,CollegeInSight_Explore_SD.csv
+1072,"South Carolina - Private, nonprofit",2016-17,0.63,30585,19269,,,,25668,,CollegeInSight_Explore_SD.csv
+1073,"South Carolina - Private, nonprofit",2015-16,0.6,29353,17612,5279,0.72,7160,24628,0.48,CollegeInSight_Explore_SD.csv
+1074,"South Carolina - Private, nonprofit",2014-15,0.63,29736,18731,5587,0.74,7219,23878,0.49,CollegeInSight_Explore_SD.csv
+1075,"South Carolina - Private, nonprofit",2013-14,0.66,29532,19525,5317,0.73,7414,23685,0.49,CollegeInSight_Explore_SD.csv
+1076,"South Carolina - Private, nonprofit",2012-13,0.67,27829,18724,5112,0.71,7210,22514,0.49,CollegeInSight_Explore_SD.csv
+1077,"South Carolina - Private, nonprofit",2011-12,0.66,28734,19004,5623,0.71,6900,21743,0.52,CollegeInSight_Explore_SD.csv
+1078,"South Carolina - Private, nonprofit",2010-11,0.62,27087,16769,5165,0.71,7145,20161,0.49,CollegeInSight_Explore_SD.csv
+1079,"South Carolina - Private, nonprofit",2009-10,0.62,26527,16478,5483,0.68,6681,18740,0.51,CollegeInSight_Explore_SD.csv
+1080,South Carolina - Public,2016-17,0.57,30958,17646,,,,9125,,CollegeInSight_Explore_SD.csv
+1081,South Carolina - Public,2015-16,0.6,30328,18197,14170,0.46,6773,8779,0.41,CollegeInSight_Explore_SD.csv
+1082,South Carolina - Public,2014-15,0.59,30730,18176,14365,0.46,6759,8371,0.39,CollegeInSight_Explore_SD.csv
+1083,South Carolina - Public,2013-14,0.58,29106,16891,14222,0.45,6699,7978,0.38,CollegeInSight_Explore_SD.csv
+1084,South Carolina - Public,2012-13,0.57,28725,16461,14980,0.47,7021,7667,0.38,CollegeInSight_Explore_SD.csv
+1085,South Carolina - Public,2011-12,0.53,27100,14376,15592,0.49,6610,7315,0.36,CollegeInSight_Explore_SD.csv
+1086,South Carolina - Public,2010-11,0.53,25358,13374,14269,0.45,6295,7143,0.38,CollegeInSight_Explore_SD.csv
+1087,South Carolina - Public,2009-10,0.54,22851,12305,13480,0.42,5964,6596,0.37,CollegeInSight_Explore_SD.csv
+1088,South Carolina - Total,2016-17,0.58,30891,17917,,,,12321,,CollegeInSight_Explore_SD.csv
+1089,South Carolina - Total,2015-16,0.6,30123,18074,20983,0.52,6925,11895,0.43,CollegeInSight_Explore_SD.csv
+1090,South Carolina - Total,2014-15,0.6,30564,18263,22044,0.53,6894,11425,0.42,CollegeInSight_Explore_SD.csv
+1091,South Carolina - Total,2013-14,0.59,29163,17203,21537,0.52,6995,11021,0.41,CollegeInSight_Explore_SD.csv
+1092,South Carolina - Total,2012-13,0.59,28546,16858,22356,0.52,7198,10473,0.41,CollegeInSight_Explore_SD.csv
+1093,South Carolina - Total,2011-12,0.55,27416,15124,23447,0.55,6841,10207,0.41,CollegeInSight_Explore_SD.csv
+1094,South Carolina - Total,2010-11,0.54,25658,13888,22919,0.53,6656,9855,0.41,CollegeInSight_Explore_SD.csv
+1095,South Carolina - Total,2009-10,0.55,23623,13087,21710,0.5,6401,9396,0.41,CollegeInSight_Explore_SD.csv
+1096,"South Dakota - Private, for-profit",2016-17,,,,,,,9965,,CollegeInSight_Explore_SD.csv
+1097,"South Dakota - Private, for-profit",2015-16,,,,92,0.51,6450,13763,0.49,CollegeInSight_Explore_SD.csv
+1098,"South Dakota - Private, for-profit",2014-15,,,,153,0.75,6203,12619,0.42,CollegeInSight_Explore_SD.csv
+1099,"South Dakota - Private, for-profit",2013-14,,,,150,0.75,6416,13167,0.49,CollegeInSight_Explore_SD.csv
+1100,"South Dakota - Private, for-profit",2012-13,,,,161,0.73,6898,12252,0.47,CollegeInSight_Explore_SD.csv
+1101,"South Dakota - Private, for-profit",2011-12,,,,279,0.81,7003,12299,0.55,CollegeInSight_Explore_SD.csv
+1102,"South Dakota - Private, for-profit",2010-11,,,,350,0.8,7315,11911,0.56,CollegeInSight_Explore_SD.csv
+1103,"South Dakota - Private, for-profit",2009-10,,,,385,0.83,7466,11360,0.55,CollegeInSight_Explore_SD.csv
+1104,"South Dakota - Private, nonprofit",2016-17,0.73,35224,25714,,,,26658,,CollegeInSight_Explore_SD.csv
+1105,"South Dakota - Private, nonprofit",2015-16,0.75,35365,26524,778,0.74,8215,25813,0.53,CollegeInSight_Explore_SD.csv
+1106,"South Dakota - Private, nonprofit",2014-15,0.67,37535,24969,753,0.71,8406,24682,0.56,CollegeInSight_Explore_SD.csv
+1107,"South Dakota - Private, nonprofit",2013-14,0.81,34472,27883,735,0.68,8283,22627,0.53,CollegeInSight_Explore_SD.csv
+1108,"South Dakota - Private, nonprofit",2012-13,0.82,33900,27899,848,0.71,8469,23474,0.52,CollegeInSight_Explore_SD.csv
+1109,"South Dakota - Private, nonprofit",2011-12,0.82,33425,27281,783,0.72,8347,20998,0.5,CollegeInSight_Explore_SD.csv
+1110,"South Dakota - Private, nonprofit",2010-11,0.81,31813,25671,793,0.71,8014,18431,0.51,CollegeInSight_Explore_SD.csv
+1111,"South Dakota - Private, nonprofit",2009-10,0.82,32647,26746,873,0.75,7956,19083,0.55,CollegeInSight_Explore_SD.csv
+1112,South Dakota - Public,2016-17,0.74,29801,22053,,,,7829,,CollegeInSight_Explore_SD.csv
+1113,South Dakota - Public,2015-16,,,,4513,0.67,7147,7643,0.51,CollegeInSight_Explore_SD.csv
+1114,South Dakota - Public,2014-15,0.75,27979,20898,4680,0.7,7094,7224,0.52,CollegeInSight_Explore_SD.csv
+1115,South Dakota - Public,2013-14,0.67,24414,16454,4949,0.69,6990,7058,0.52,CollegeInSight_Explore_SD.csv
+1116,South Dakota - Public,2012-13,0.7,24181,16941,4899,0.69,6824,6849,0.5,CollegeInSight_Explore_SD.csv
+1117,South Dakota - Public,2011-12,0.77,23642,18177,5158,0.73,6377,6473,0.49,CollegeInSight_Explore_SD.csv
+1118,South Dakota - Public,2010-11,0.75,22887,17088,5339,0.73,6051,5927,0.48,CollegeInSight_Explore_SD.csv
+1119,South Dakota - Public,2009-10,0.73,21005,15439,4975,0.71,6190,5677,0.48,CollegeInSight_Explore_SD.csv
+1120,South Dakota - Total,2016-17,0.74,31275,23144,,,,10562,,CollegeInSight_Explore_SD.csv
+1121,South Dakota - Total,2015-16,0.75,31362,23522,5383,0.68,7289,10138,0.51,CollegeInSight_Explore_SD.csv
+1122,South Dakota - Total,2014-15,0.73,29364,21549,5586,0.71,7247,9596,0.52,CollegeInSight_Explore_SD.csv
+1123,South Dakota - Total,2013-14,0.69,26023,18019,5834,0.69,7138,9178,0.52,CollegeInSight_Explore_SD.csv
+1124,South Dakota - Total,2012-13,0.72,25750,18484,5908,0.7,7062,9129,0.5,CollegeInSight_Explore_SD.csv
+1125,South Dakota - Total,2011-12,0.78,25121,19485,6220,0.74,6653,8531,0.5,CollegeInSight_Explore_SD.csv
+1126,South Dakota - Total,2010-11,0.76,24232,18299,6482,0.73,6359,7803,0.49,CollegeInSight_Explore_SD.csv
+1127,South Dakota - Total,2009-10,0.75,23171,17363,6233,0.72,6516,7684,0.5,CollegeInSight_Explore_SD.csv
+1128,"Tennessee - Private, for-profit",2016-17,,,,,,,14601,,CollegeInSight_Explore_WY.csv
+1129,"Tennessee - Private, for-profit",2015-16,,,,4765,0.79,7612,15483,0.5,CollegeInSight_Explore_WY.csv
+1130,"Tennessee - Private, for-profit",2014-15,,,,5369,0.81,7954,14932,0.49,CollegeInSight_Explore_WY.csv
+1131,"Tennessee - Private, for-profit",2013-14,,,,5664,0.82,8166,14264,0.52,CollegeInSight_Explore_WY.csv
+1132,"Tennessee - Private, for-profit",2012-13,,,,7473,0.84,8058,13484,0.58,CollegeInSight_Explore_WY.csv
+1133,"Tennessee - Private, for-profit",2011-12,,,,7369,0.81,7644,13754,0.58,CollegeInSight_Explore_WY.csv
+1134,"Tennessee - Private, for-profit",2010-11,,,,9883,0.78,7616,14365,0.56,CollegeInSight_Explore_WY.csv
+1135,"Tennessee - Private, for-profit",2009-10,,,,14001,0.81,7374,13594,0.56,CollegeInSight_Explore_WY.csv
+1136,"Tennessee - Private, nonprofit",2016-17,0.52,28079,14601,,,,28136,,CollegeInSight_Explore_WY.csv
+1137,"Tennessee - Private, nonprofit",2015-16,0.51,28820,14698,6554,0.54,6269,27222,0.59,CollegeInSight_Explore_WY.csv
+1138,"Tennessee - Private, nonprofit",2014-15,0.58,27222,15767,6879,0.56,7056,26316,0.58,CollegeInSight_Explore_WY.csv
+1139,"Tennessee - Private, nonprofit",2013-14,0.59,26280,15427,7262,0.58,6910,25385,0.59,CollegeInSight_Explore_WY.csv
+1140,"Tennessee - Private, nonprofit",2012-13,0.55,26266,14334,7277,0.58,6556,24413,0.59,CollegeInSight_Explore_WY.csv
+1141,"Tennessee - Private, nonprofit",2011-12,0.58,23328,13582,7580,0.58,6066,22857,0.61,CollegeInSight_Explore_WY.csv
+1142,"Tennessee - Private, nonprofit",2010-11,0.59,21576,12762,6861,0.57,6349,22129,0.59,CollegeInSight_Explore_WY.csv
+1143,"Tennessee - Private, nonprofit",2009-10,0.61,22017,13403,6557,0.55,6770,21245,0.59,CollegeInSight_Explore_WY.csv
+1144,Tennessee - Public,2016-17,0.58,23769,13786,,,,6843,,CollegeInSight_Explore_WY.csv
+1145,Tennessee - Public,2015-16,0.64,26209,16774,11871,0.25,5383,6504,0.43,CollegeInSight_Explore_WY.csv
+1146,Tennessee - Public,2014-15,0.61,25598,15592,12397,0.3,5726,6820,0.42,CollegeInSight_Explore_WY.csv
+1147,Tennessee - Public,2013-14,0.6,25133,15121,12363,0.3,5511,6429,0.41,CollegeInSight_Explore_WY.csv
+1148,Tennessee - Public,2012-13,0.58,24016,13984,13173,0.33,5428,5937,0.39,CollegeInSight_Explore_WY.csv
+1149,Tennessee - Public,2011-12,0.58,21064,12175,13608,0.31,5121,5497,0.35,CollegeInSight_Explore_WY.csv
+1150,Tennessee - Public,2010-11,0.51,19702,10019,14162,0.31,5135,4997,0.4,CollegeInSight_Explore_WY.csv
+1151,Tennessee - Public,2009-10,0.49,17694,8671,12671,0.28,5139,4640,0.39,CollegeInSight_Explore_WY.csv
+1152,Tennessee - Total,2016-17,0.56,25252,14141,,,,12169,,CollegeInSight_Explore_WY.csv
+1153,Tennessee - Total,2015-16,0.6,26981,16189,23190,0.35,6091,11605,0.48,CollegeInSight_Explore_WY.csv
+1154,Tennessee - Total,2014-15,0.6,26083,15646,24645,0.4,6583,12237,0.46,CollegeInSight_Explore_WY.csv
+1155,Tennessee - Total,2013-14,0.6,25510,15223,25289,0.42,6507,11866,0.46,CollegeInSight_Explore_WY.csv
+1156,Tennessee - Total,2012-13,0.57,24585,14077,27923,0.45,6426,11247,0.46,CollegeInSight_Explore_WY.csv
+1157,Tennessee - Total,2011-12,0.58,21775,12614,28557,0.43,6023,10396,0.44,CollegeInSight_Explore_WY.csv
+1158,Tennessee - Total,2010-11,0.53,20335,10855,30906,0.44,6198,9646,0.47,CollegeInSight_Explore_WY.csv
+1159,Tennessee - Total,2009-10,0.53,19308,10205,33229,0.44,6403,9113,0.46,CollegeInSight_Explore_WY.csv
+1160,"Texas - Private, for-profit",2016-17,,,,,,,15648,,CollegeInSight_Explore_WY.csv
+1161,"Texas - Private, for-profit",2015-16,,,,32985,0.72,7277,16174,0.61,CollegeInSight_Explore_WY.csv
+1162,"Texas - Private, for-profit",2014-15,,,,35062,0.75,7567,16329,0.61,CollegeInSight_Explore_WY.csv
+1163,"Texas - Private, for-profit",2013-14,,,,35528,0.74,7718,15726,0.58,CollegeInSight_Explore_WY.csv
+1164,"Texas - Private, for-profit",2012-13,,,,33899,0.69,7729,16326,0.6,CollegeInSight_Explore_WY.csv
+1165,"Texas - Private, for-profit",2011-12,,,,41574,0.72,7859,15620,0.62,CollegeInSight_Explore_WY.csv
+1166,"Texas - Private, for-profit",2010-11,,,,52891,0.78,7579,16297,0.62,CollegeInSight_Explore_WY.csv
+1167,"Texas - Private, for-profit",2009-10,,,,65179,0.73,7407,17490,0.59,CollegeInSight_Explore_WY.csv
+1168,"Texas - Private, nonprofit",2016-17,0.53,35436,18781,,,,33201,,CollegeInSight_Explore_WY.csv
+1169,"Texas - Private, nonprofit",2015-16,0.53,34930,18513,12736,0.55,8495,32082,0.61,CollegeInSight_Explore_WY.csv
+1170,"Texas - Private, nonprofit",2014-15,0.59,34422,20370,12480,0.57,8959,30614,0.61,CollegeInSight_Explore_WY.csv
+1171,"Texas - Private, nonprofit",2013-14,0.64,32909,20975,12751,0.57,8647,29020,0.61,CollegeInSight_Explore_WY.csv
+1172,"Texas - Private, nonprofit",2012-13,0.63,31799,20096,12602,0.58,8352,27417,0.6,CollegeInSight_Explore_WY.csv
+1173,"Texas - Private, nonprofit",2011-12,0.57,32024,18324,12957,0.6,7783,25928,0.63,CollegeInSight_Explore_WY.csv
+1174,"Texas - Private, nonprofit",2010-11,0.59,29043,17210,12679,0.6,7374,24949,0.61,CollegeInSight_Explore_WY.csv
+1175,"Texas - Private, nonprofit",2009-10,0.6,28346,17027,11995,0.6,7902,23585,0.6,CollegeInSight_Explore_WY.csv
+1176,Texas - Public,2016-17,0.55,24587,13523,,,,6016,,CollegeInSight_Explore_WY.csv
+1177,Texas - Public,2015-16,0.56,24222,13564,47580,0.34,5645,5676,0.34,CollegeInSight_Explore_WY.csv
+1178,Texas - Public,2014-15,0.56,25796,14436,50286,0.35,5718,5406,0.33,CollegeInSight_Explore_WY.csv
+1179,Texas - Public,2013-14,0.59,24804,14521,50334,0.36,5815,4995,0.32,CollegeInSight_Explore_WY.csv
+1180,Texas - Public,2012-13,0.58,23860,13811,51372,0.37,5568,4909,0.32,CollegeInSight_Explore_WY.csv
+1181,Texas - Public,2011-12,0.56,22449,12498,52687,0.38,5382,4641,0.31,CollegeInSight_Explore_WY.csv
+1182,Texas - Public,2010-11,0.56,21089,11795,46525,0.34,5773,4381,0.32,CollegeInSight_Explore_WY.csv
+1183,Texas - Public,2009-10,0.55,19376,10713,44438,0.34,5560,4117,0.31,CollegeInSight_Explore_WY.csv
+1184,Texas - Total,2016-17,0.55,26824,14753,,,,9695,,CollegeInSight_Explore_WY.csv
+1185,Texas - Total,2015-16,0.56,26292,14724,93301,0.45,6611,9328,0.42,CollegeInSight_Explore_WY.csv
+1186,Texas - Total,2014-15,0.56,27207,15362,97828,0.46,6794,8973,0.42,CollegeInSight_Explore_WY.csv
+1187,Texas - Total,2013-14,0.59,26250,15594,98613,0.47,6867,8436,0.41,CollegeInSight_Explore_WY.csv
+1188,Texas - Total,2012-13,0.59,25244,14830,97873,0.47,6675,8237,0.42,CollegeInSight_Explore_WY.csv
+1189,Texas - Total,2011-12,0.56,23933,13381,107218,0.49,6633,7760,0.44,CollegeInSight_Explore_WY.csv
+1190,Texas - Total,2010-11,0.57,22523,12726,112095,0.5,6806,7612,0.44,CollegeInSight_Explore_WY.csv
+1191,Texas - Total,2009-10,0.56,20919,11727,121612,0.51,6781,7263,0.43,CollegeInSight_Explore_WY.csv
+1192,"Vermont - Private, for-profit",2016-17,,,,,,,,,CollegeInSight_Explore_WY.csv
+1193,"Vermont - Private, for-profit",2015-16,,,,115,0.59,8990,,0.58,CollegeInSight_Explore_WY.csv
+1194,"Vermont - Private, for-profit",2014-15,,,,167,0.75,9770,,0.53,CollegeInSight_Explore_WY.csv
+1195,"Vermont - Private, for-profit",2013-14,,,,228,0.55,13914,,0.53,CollegeInSight_Explore_WY.csv
+1196,"Vermont - Private, for-profit",2012-13,,,,334,0.77,10553,,0.56,CollegeInSight_Explore_WY.csv
+1197,"Vermont - Private, for-profit",2011-12,,,,332,0.76,12526,,0.63,CollegeInSight_Explore_WY.csv
+1198,"Vermont - Private, for-profit",2010-11,,,,276,0.82,10266,,0.57,CollegeInSight_Explore_WY.csv
+1199,"Vermont - Private, for-profit",2009-10,,,,237,0.75,7968,,0.69,CollegeInSight_Explore_WY.csv
+1200,"Vermont - Private, nonprofit",2016-17,0.62,32518,20161,,,,41398,,CollegeInSight_Explore_WY.csv
+1201,"Vermont - Private, nonprofit",2015-16,0.62,30462,18886,1816,0.64,9102,40160,0.67,CollegeInSight_Explore_WY.csv
+1202,"Vermont - Private, nonprofit",2014-15,0.62,30013,18660,2013,0.64,7801,37690,0.65,CollegeInSight_Explore_WY.csv
+1203,"Vermont - Private, nonprofit",2013-14,0.67,31023,20660,1822,0.62,8422,37146,0.65,CollegeInSight_Explore_WY.csv
+1204,"Vermont - Private, nonprofit",2012-13,0.6,25875,15419,2104,0.67,7833,35520,0.64,CollegeInSight_Explore_WY.csv
+1205,"Vermont - Private, nonprofit",2011-12,0.66,29470,19538,2082,0.69,7493,34369,0.68,CollegeInSight_Explore_WY.csv
+1206,"Vermont - Private, nonprofit",2010-11,0.67,29282,19587,2197,0.68,7495,32557,0.67,CollegeInSight_Explore_WY.csv
+1207,"Vermont - Private, nonprofit",2009-10,0.68,29323,19972,1920,0.62,6667,29646,0.67,CollegeInSight_Explore_WY.csv
+1208,Vermont - Public,2016-17,0.57,29012,16537,,,,15184,,CollegeInSight_Explore_WY.csv
+1209,Vermont - Public,2015-16,0.63,27265,17177,2184,0.59,8514,14664,0.6,CollegeInSight_Explore_WY.csv
+1210,Vermont - Public,2014-15,0.62,26890,16621,2143,0.59,8069,14017,0.62,CollegeInSight_Explore_WY.csv
+1211,Vermont - Public,2013-14,0.64,26987,17284,2279,0.57,8232,13519,0.61,CollegeInSight_Explore_WY.csv
+1212,Vermont - Public,2012-13,0.65,27886,18258,2300,0.59,7158,12971,0.6,CollegeInSight_Explore_WY.csv
+1213,Vermont - Public,2011-12,0.6,27272,16321,2537,0.63,6898,12511,0.58,CollegeInSight_Explore_WY.csv
+1214,Vermont - Public,2010-11,0.6,27317,16352,2590,0.62,6214,11828,0.59,CollegeInSight_Explore_WY.csv
+1215,Vermont - Public,2009-10,0.64,27538,17492,2688,0.62,6128,11505,0.6,CollegeInSight_Explore_WY.csv
+1216,Vermont - Total,2016-17,0.6,30651,18390,,,,27062,,CollegeInSight_Explore_WY.csv
+1217,Vermont - Total,2015-16,0.63,28662,18057,4115,0.61,8787,25788,0.63,CollegeInSight_Explore_WY.csv
+1218,Vermont - Total,2014-15,0.62,28283,17527,4323,0.62,8010,25056,0.63,CollegeInSight_Explore_WY.csv
+1219,Vermont - Total,2013-14,0.65,29060,18985,4329,0.59,8611,23535,0.62,CollegeInSight_Explore_WY.csv
+1220,Vermont - Total,2012-13,0.64,27318,17400,4738,0.64,7697,23076,0.61,CollegeInSight_Explore_WY.csv
+1221,Vermont - Total,2011-12,0.63,28299,17742,4951,0.66,7526,21888,0.62,CollegeInSight_Explore_WY.csv
+1222,Vermont - Total,2010-11,0.63,28273,17836,5063,0.66,6991,20903,0.62,CollegeInSight_Explore_WY.csv
+1223,Vermont - Total,2009-10,0.66,28391,18634,4845,0.63,6431,18111,0.63,CollegeInSight_Explore_WY.csv
+1224,"Washington - Private, for-profit",2016-17,,,,,,,22343,,CollegeInSight_Explore_WY.csv
+1225,"Washington - Private, for-profit",2015-16,,,,3266,0.65,7828,20447,0.69,CollegeInSight_Explore_WY.csv
+1226,"Washington - Private, for-profit",2014-15,,,,4170,0.72,7645,17922,0.67,CollegeInSight_Explore_WY.csv
+1227,"Washington - Private, for-profit",2013-14,,,,4632,0.71,8054,17311,0.68,CollegeInSight_Explore_WY.csv
+1228,"Washington - Private, for-profit",2012-13,,,,5029,0.74,7985,16778,0.68,CollegeInSight_Explore_WY.csv
+1229,"Washington - Private, for-profit",2011-12,,,,5575,0.77,8159,16476,0.67,CollegeInSight_Explore_WY.csv
+1230,"Washington - Private, for-profit",2010-11,,,,6399,0.75,8213,16613,0.64,CollegeInSight_Explore_WY.csv
+1231,"Washington - Private, for-profit",2009-10,,,,9890,0.79,8353,16522,0.64,CollegeInSight_Explore_WY.csv
+1232,"Washington - Private, nonprofit",2016-17,0.63,28829,18162,,,,38432,,CollegeInSight_Explore_WY.csv
+1233,"Washington - Private, nonprofit",2015-16,0.62,28940,17943,4141,0.59,7370,36815,0.72,CollegeInSight_Explore_WY.csv
+1234,"Washington - Private, nonprofit",2014-15,0.68,29213,19856,3916,0.61,7187,36227,0.73,CollegeInSight_Explore_WY.csv
+1235,"Washington - Private, nonprofit",2013-14,0.68,29076,19902,4081,0.6,7446,34928,0.73,CollegeInSight_Explore_WY.csv
+1236,"Washington - Private, nonprofit",2012-13,0.69,29773,20480,4193,0.63,7095,33294,0.71,CollegeInSight_Explore_WY.csv
+1237,"Washington - Private, nonprofit",2011-12,0.67,28849,19468,4240,0.64,6862,31752,0.72,CollegeInSight_Explore_WY.csv
+1238,"Washington - Private, nonprofit",2010-11,0.7,27171,19005,4326,0.64,6928,30282,0.71,CollegeInSight_Explore_WY.csv
+1239,"Washington - Private, nonprofit",2009-10,0.7,27245,18958,4069,0.64,7029,29096,0.72,CollegeInSight_Explore_WY.csv
+1240,Washington - Public,2016-17,0.49,21559,10564,,,,7175,,CollegeInSight_Explore_WY.csv
+1241,Washington - Public,2015-16,0.49,22659,11103,10193,0.31,6011,7840,0.52,CollegeInSight_Explore_WY.csv
+1242,Washington - Public,2014-15,0.54,23071,12446,9949,0.32,5947,8136,0.51,CollegeInSight_Explore_WY.csv
+1243,Washington - Public,2013-14,0.55,23314,12733,9792,0.33,5893,8069,0.51,CollegeInSight_Explore_WY.csv
+1244,Washington - Public,2012-13,0.55,22629,12460,9683,0.33,5727,8089,0.5,CollegeInSight_Explore_WY.csv
+1245,Washington - Public,2011-12,0.53,21383,11373,9931,0.34,5641,7063,0.48,CollegeInSight_Explore_WY.csv
+1246,Washington - Public,2010-11,0.53,20436,10781,9143,0.32,5498,5929,0.49,CollegeInSight_Explore_WY.csv
+1247,Washington - Public,2009-10,0.52,17767,9177,8844,0.3,5320,5317,0.49,CollegeInSight_Explore_WY.csv
+1248,Washington - Total,2016-17,0.52,23936,12447,,,,12596,,CollegeInSight_Explore_WY.csv
+1249,Washington - Total,2015-16,0.53,24609,13043,17600,0.39,6668,12802,0.58,CollegeInSight_Explore_WY.csv
+1250,Washington - Total,2014-15,0.57,24600,13990,18035,0.42,6609,12889,0.57,CollegeInSight_Explore_WY.csv
+1251,Washington - Total,2013-14,0.58,24804,14294,18505,0.43,6776,12893,0.58,CollegeInSight_Explore_WY.csv
+1252,Washington - Total,2012-13,0.58,24418,14152,18905,0.44,6631,12631,0.57,CollegeInSight_Explore_WY.csv
+1253,Washington - Total,2011-12,0.56,23293,13099,19746,0.46,6614,11569,0.56,CollegeInSight_Explore_WY.csv
+1254,Washington - Total,2010-11,0.56,22220,12538,19868,0.45,6684,10595,0.55,CollegeInSight_Explore_WY.csv
+1255,Washington - Total,2009-10,0.59,22101,12941,22803,0.47,6940,9525,0.55,CollegeInSight_Explore_WY.csv
+1256,"West Virginia - Private, for-profit",2016-17,,,,,,,12460,,CollegeInSight_Explore_WY.csv
+1257,"West Virginia - Private, for-profit",2015-16,,,,1293,0.66,7947,12687,0.53,CollegeInSight_Explore_WY.csv
+1258,"West Virginia - Private, for-profit",2014-15,,,,1222,0.77,7563,11441,0.41,CollegeInSight_Explore_WY.csv
+1259,"West Virginia - Private, for-profit",2013-14,,,,1521,0.84,8155,10925,0.52,CollegeInSight_Explore_WY.csv
+1260,"West Virginia - Private, for-profit",2012-13,,,,1444,0.81,7799,10633,0.57,CollegeInSight_Explore_WY.csv
+1261,"West Virginia - Private, for-profit",2011-12,,,,1439,0.83,7342,9479,0.56,CollegeInSight_Explore_WY.csv
+1262,"West Virginia - Private, for-profit",2010-11,,,,1511,0.73,7464,10078,0.55,CollegeInSight_Explore_WY.csv
+1263,"West Virginia - Private, for-profit",2009-10,,,,1779,0.74,7181,9494,0.56,CollegeInSight_Explore_WY.csv
+1264,"West Virginia - Private, nonprofit",2016-17,0.7,31222,21855,,,,27574,,CollegeInSight_Explore_WY.csv
+1265,"West Virginia - Private, nonprofit",2015-16,0.86,27922,24013,1350,0.72,7294,26013,0.47,CollegeInSight_Explore_WY.csv
+1266,"West Virginia - Private, nonprofit",2014-15,0.77,31163,23892,1483,0.75,7634,25201,0.47,CollegeInSight_Explore_WY.csv
+1267,"West Virginia - Private, nonprofit",2013-14,0.76,29325,22285,1638,0.78,7349,23998,0.5,CollegeInSight_Explore_WY.csv
+1268,"West Virginia - Private, nonprofit",2012-13,0.75,27997,21085,1543,0.74,7365,23181,0.52,CollegeInSight_Explore_WY.csv
+1269,"West Virginia - Private, nonprofit",2011-12,,,,1326,0.76,7071,20988,0.52,CollegeInSight_Explore_WY.csv
+1270,"West Virginia - Private, nonprofit",2010-11,0.73,32351,23518,1604,0.7,7048,20101,0.5,CollegeInSight_Explore_WY.csv
+1271,"West Virginia - Private, nonprofit",2009-10,0.81,30365,24518,1661,0.68,7093,18244,0.51,CollegeInSight_Explore_WY.csv
+1272,West Virginia - Public,2016-17,0.75,26940,20205,,,,6637,,CollegeInSight_Explore_WY.csv
+1273,West Virginia - Public,2015-16,0.73,27594,20144,7051,0.5,6755,6323,0.42,CollegeInSight_Explore_WY.csv
+1274,West Virginia - Public,2014-15,0.67,27395,18406,7432,0.52,6575,5867,0.41,CollegeInSight_Explore_WY.csv
+1275,West Virginia - Public,2013-14,0.69,26659,18374,7573,0.51,6562,5431,0.4,CollegeInSight_Explore_WY.csv
+1276,West Virginia - Public,2012-13,0.7,27264,18953,8182,0.52,6429,5060,0.38,CollegeInSight_Explore_WY.csv
+1277,West Virginia - Public,2011-12,0.53,26122,13902,8581,0.54,6124,4755,0.41,CollegeInSight_Explore_WY.csv
+1278,West Virginia - Public,2010-11,0.63,25029,15675,8685,0.53,6060,4464,0.42,CollegeInSight_Explore_WY.csv
+1279,West Virginia - Public,2009-10,0.7,20090,14053,8643,0.54,5691,4379,0.41,CollegeInSight_Explore_WY.csv
+1280,West Virginia - Total,2016-17,0.74,27505,20353,,,,9040,,CollegeInSight_Explore_WY.csv
+1281,West Virginia - Total,2015-16,0.77,27708,21335,9694,0.54,6989,8863,0.44,CollegeInSight_Explore_WY.csv
+1282,West Virginia - Total,2014-15,0.68,27713,18816,10137,0.57,6849,8451,0.42,CollegeInSight_Explore_WY.csv
+1283,West Virginia - Total,2013-14,0.69,26854,18635,10732,0.57,6908,7896,0.42,CollegeInSight_Explore_WY.csv
+1284,West Virginia - Total,2012-13,0.7,27320,19105,11169,0.57,6735,7366,0.41,CollegeInSight_Explore_WY.csv
+1285,West Virginia - Total,2011-12,0.54,26227,14275,11346,0.58,6389,6722,0.43,CollegeInSight_Explore_WY.csv
+1286,West Virginia - Total,2010-11,0.64,26258,16836,11800,0.57,6374,6581,0.44,CollegeInSight_Explore_WY.csv
+1287,West Virginia - Total,2009-10,0.73,23678,17374,12083,0.58,6103,6389,0.44,CollegeInSight_Explore_WY.csv
+1288,"Wyoming - Private, for-profit",2016-17,,,,,,,,,CollegeInSight_Explore_WY.csv
+1289,"Wyoming - Private, for-profit",2015-16,,,,35,0.78,4826,,0.93,CollegeInSight_Explore_WY.csv
+1290,"Wyoming - Private, for-profit",2014-15,,,,333,0.68,9476,,0.78,CollegeInSight_Explore_WY.csv
+1291,"Wyoming - Private, for-profit",2013-14,,,,782,0.8,22660,,0.78,CollegeInSight_Explore_WY.csv
+1292,"Wyoming - Private, for-profit",2012-13,,,,1085,0.82,25237,15019,0.76,CollegeInSight_Explore_WY.csv
+1293,"Wyoming - Private, for-profit",2011-12,,,,1107,0.9,18635,14429,0.77,CollegeInSight_Explore_WY.csv
+1294,"Wyoming - Private, for-profit",2010-11,,,,1531,0.89,19459,,0.8,CollegeInSight_Explore_WY.csv
+1295,"Wyoming - Private, for-profit",2009-10,,,,1652,0.9,14016,,0.79,CollegeInSight_Explore_WY.csv
+1296,"Wyoming - Private, nonprofit",2016-17,,,,,,,,,CollegeInSight_Explore_WY.csv
+1297,"Wyoming - Private, nonprofit",2015-16,,,,258,0.71,8207,16968,0.77,CollegeInSight_Explore_WY.csv
+1298,"Wyoming - Private, nonprofit",2014-15,,,,7,1,8279,16968,0.22,CollegeInSight_Explore_WY.csv
+1299,"Wyoming - Private, nonprofit",2013-14,,,,16,0.89,12027,17211,0.18,CollegeInSight_Explore_WY.csv
+1300,"Wyoming - Private, nonprofit",2012-13,,,,,,,,,CollegeInSight_Explore_WY.csv
+1301,"Wyoming - Private, nonprofit",2011-12,,,,,,,,,CollegeInSight_Explore_WY.csv
+1302,"Wyoming - Private, nonprofit",2010-11,,,,,,,,,CollegeInSight_Explore_WY.csv
+1303,"Wyoming - Private, nonprofit",2009-10,,,,,,,,,CollegeInSight_Explore_WY.csv
+1304,Wyoming - Public,2016-17,0.47,22524,10586,,,,3784,,CollegeInSight_Explore_WY.csv
+1305,Wyoming - Public,2015-16,0.45,25378,11420,1294,0.31,5609,3644,0.42,CollegeInSight_Explore_WY.csv
+1306,Wyoming - Public,2014-15,0.46,22683,10434,1262,0.34,5556,3466,0.4,CollegeInSight_Explore_WY.csv
+1307,Wyoming - Public,2013-14,0.46,23708,10906,1371,0.33,5424,3257,0.4,CollegeInSight_Explore_WY.csv
+1308,Wyoming - Public,2012-13,0.48,22879,10982,1521,0.36,5039,3088,0.38,CollegeInSight_Explore_WY.csv
+1309,Wyoming - Public,2011-12,0.47,21241,9983,1301,0.31,4898,2960,0.38,CollegeInSight_Explore_WY.csv
+1310,Wyoming - Public,2010-11,0.47,23341,10970,1251,0.3,4866,2768,0.4,CollegeInSight_Explore_WY.csv
+1311,Wyoming - Public,2009-10,0.42,20571,8640,1457,0.33,4789,2695,0.39,CollegeInSight_Explore_WY.csv
+1312,Wyoming - Total,2016-17,0.47,22524,10586,,,,3784,,CollegeInSight_Explore_WY.csv
+1313,Wyoming - Total,2015-16,0.45,25378,11420,1587,0.35,6014,3695,0.5,CollegeInSight_Explore_WY.csv
+1314,Wyoming - Total,2014-15,0.46,22683,10434,1602,0.38,6383,3490,0.49,CollegeInSight_Explore_WY.csv
+1315,Wyoming - Total,2013-14,0.46,23708,10906,2169,0.42,11687,3301,0.46,CollegeInSight_Explore_WY.csv
+1316,Wyoming - Total,2012-13,0.48,22879,10982,2606,0.46,13449,3199,0.51,CollegeInSight_Explore_WY.csv
+1317,Wyoming - Total,2011-12,0.47,21241,9983,2408,0.45,11213,3125,0.49,CollegeInSight_Explore_WY.csv
+1318,Wyoming - Total,2010-11,0.47,23341,10970,2782,0.47,12897,2768,0.5,CollegeInSight_Explore_WY.csv
+1319,Wyoming - Total,2009-10,0.42,20571,8640,3109,0.5,9692,2695,0.5,CollegeInSight_Explore_WY.csv

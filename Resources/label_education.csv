@@ -1,0 +1,7 @@
+﻿id,education,label
+1,E0,All Education Categories
+2,E1,Less than high school
+3,E2,"High school or equivalent, no college"
+4,E3,Some college or Associate degree
+5,E4,Bachelor's degree or advanced degree
+6,E5,Educational attainment not available (workers aged 24 or younger)
